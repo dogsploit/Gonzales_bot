@@ -1,3 +1,5 @@
+Isso é um upload do bot de puxar dados; Gonzales_bot, que foi ownado pelo(a) maye, a seguir segue o readme.md;
+
 # 🤖 Bot de Telegram - Sistema Profissional de Consultas
 
 Bot completo com sistema VIP, pagamentos PIX, moderação de grupos e 14 tipos de consultas diferentes.
