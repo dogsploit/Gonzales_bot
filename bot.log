@@ -1,0 +1,1928 @@
+[2026-02-11 23:12:39] ✅ Callback respondido com sucesso!
+[2026-02-11 23:12:39] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:12:39] 🔔 CALLBACK RECEBIDO: {"callback_id":"6343766110618082860","data":"APAGAR|5771990442|98","from_id":5771990442,"message_date":1770862296,"age_seconds":63,"age_hours":0}
+[2026-02-11 23:12:39] 🔍 Callback com pipe: action=APAGAR, ownerId=5771990442, fromId=5771990442
+[2026-02-11 23:12:39] 📤 Tentando responder callback: 6343766110618082860
+[2026-02-11 23:12:39] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:09] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:13:09]    └─ Data: MENU_CONSULTAS|1087968824
+[2026-02-11 23:13:09]    └─ From: 8596304769
+[2026-02-11 23:13:09]    └─ Age: 43s (0h)
+[2026-02-11 23:13:09] 📤 Tentando responder callback: 27359705787247207
+[2026-02-11 23:13:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:10] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:13:10] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359705787247207","data":"MENU_CONSULTAS|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":44,"age_hours":0}
+[2026-02-11 23:13:10] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:13:10] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:13:10] 📤 Tentando responder callback: 27359705787247207
+[2026-02-11 23:13:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:15] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:13:15]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:13:15]    └─ From: 8596304769
+[2026-02-11 23:13:15]    └─ Age: 49s (0h)
+[2026-02-11 23:13:15] 📤 Tentando responder callback: 27359705131786977
+[2026-02-11 23:13:15] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:15] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:13:15] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359705131786977","data":"CONSULTA_TELEFONE|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":49,"age_hours":0}
+[2026-02-11 23:13:15] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:13:15] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:13:15] 📤 Tentando responder callback: 27359705131786977
+[2026-02-11 23:13:16] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:21] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:13:21]    └─ Data: CONSULTA_IP|1087968824
+[2026-02-11 23:13:21]    └─ From: 8596304769
+[2026-02-11 23:13:21]    └─ Age: 55s (0h)
+[2026-02-11 23:13:21] 📤 Tentando responder callback: 27359704713891173
+[2026-02-11 23:13:22] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:22] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:13:22] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359704713891173","data":"CONSULTA_IP|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":56,"age_hours":0}
+[2026-02-11 23:13:22] 🔍 Callback com pipe: action=CONSULTA_IP, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:13:22] ✅ Ação liberada para todos: CONSULTA_IP
+[2026-02-11 23:13:22] 📤 Tentando responder callback: 27359704713891173
+[2026-02-11 23:13:22] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:13:43]    └─ Data: CPF_BASE|8291108280|cpflocal|60302143572|512290
+[2026-02-11 23:13:43]    └─ From: 8291108280
+[2026-02-11 23:13:43]    └─ Age: 5s (0h)
+[2026-02-11 23:13:43] 📤 Tentando responder callback: 7939922801978988993
+[2026-02-11 23:13:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:13:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"7939922801978988993","data":"CPF_BASE|8291108280|cpflocal|60302143572|512290","from_id":8291108280,"message_date":1770862418,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:13:44] 🔍 Callback com pipe: action=CPF_BASE, ownerId=8291108280, fromId=8291108280
+[2026-02-11 23:13:46] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:13:46]    └─ Data: CONSULTA_IP|1087968824
+[2026-02-11 23:13:46]    └─ From: 881803446
+[2026-02-11 23:13:46]    └─ Age: 80s (0h)
+[2026-02-11 23:13:46] 📤 Tentando responder callback: 3787316962312428161
+[2026-02-11 23:13:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:13:47] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:13:47] 🔔 CALLBACK RECEBIDO: {"callback_id":"3787316962312428161","data":"CONSULTA_IP|1087968824","from_id":881803446,"message_date":1770862346,"age_seconds":81,"age_hours":0}
+[2026-02-11 23:13:47] 🔍 Callback com pipe: action=CONSULTA_IP, ownerId=1087968824, fromId=881803446
+[2026-02-11 23:13:47] ✅ Ação liberada para todos: CONSULTA_IP
+[2026-02-11 23:13:47] 📤 Tentando responder callback: 3787316962312428161
+[2026-02-11 23:13:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:06] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:06]    └─ Data: APAGAR|7044337260|14084
+[2026-02-11 23:14:06]    └─ From: 7044337260
+[2026-02-11 23:14:06]    └─ Age: 48s (0h)
+[2026-02-11 23:14:06] 📤 Tentando responder callback: 2585082045906615453
+[2026-02-11 23:14:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:07] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:07] 🔔 CALLBACK RECEBIDO: {"callback_id":"2585082045906615453","data":"APAGAR|7044337260|14084","from_id":7044337260,"message_date":1770862398,"age_seconds":49,"age_hours":0}
+[2026-02-11 23:14:07] 🔍 Callback com pipe: action=APAGAR, ownerId=7044337260, fromId=7044337260
+[2026-02-11 23:14:07] 📤 Tentando responder callback: 2585082045906615453
+[2026-02-11 23:14:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:08] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message can't be deleted"}
+[2026-02-11 23:14:14] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:14]    └─ Data: CPF_BASE|7570773012|cpflocal|25702775848|297403
+[2026-02-11 23:14:14]    └─ From: 7570773012
+[2026-02-11 23:14:14]    └─ Age: 2s (0h)
+[2026-02-11 23:14:14] 📤 Tentando responder callback: 4846106385213595943
+[2026-02-11 23:14:15] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:15] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:15] 🔔 CALLBACK RECEBIDO: {"callback_id":"4846106385213595943","data":"CPF_BASE|7570773012|cpflocal|25702775848|297403","from_id":7570773012,"message_date":1770862452,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:14:15] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7570773012, fromId=7570773012
+[2026-02-11 23:14:17] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:17]    └─ Data: APAGAR|8596304769|10810
+[2026-02-11 23:14:17]    └─ From: 8596304769
+[2026-02-11 23:14:17]    └─ Age: 11s (0h)
+[2026-02-11 23:14:17] 📤 Tentando responder callback: 27359704220197063
+[2026-02-11 23:14:18] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:18] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:18] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359704220197063","data":"APAGAR|8596304769|10810","from_id":8596304769,"message_date":1770862446,"age_seconds":12,"age_hours":0}
+[2026-02-11 23:14:18] 🔍 Callback com pipe: action=APAGAR, ownerId=8596304769, fromId=8596304769
+[2026-02-11 23:14:18] 📤 Tentando responder callback: 27359704220197063
+[2026-02-11 23:14:18] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:25] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:25]    └─ Data: CONSULTA_NOME|5275018255
+[2026-02-11 23:14:25]    └─ From: 5175957490
+[2026-02-11 23:14:25]    └─ Age: 22548s (6.3h)
+[2026-02-11 23:14:25] 📤 Tentando responder callback: 3783824074674231549
+[2026-02-11 23:14:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:26] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:26] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074674231549","data":"CONSULTA_NOME|5275018255","from_id":5175957490,"message_date":1770839917,"age_seconds":22549,"age_hours":6.3}
+[2026-02-11 23:14:26] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5275018255, fromId=5175957490
+[2026-02-11 23:14:26] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:14:26] 📤 Tentando responder callback: 3783824074674231549
+[2026-02-11 23:14:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:39] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:39]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:14:39]    └─ From: 8596304769
+[2026-02-11 23:14:39]    └─ Age: 133s (0h)
+[2026-02-11 23:14:39] 📤 Tentando responder callback: 27359704085926970
+[2026-02-11 23:14:39] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:39] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:39] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359704085926970","data":"CONSULTA_TELEFONE|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":133,"age_hours":0}
+[2026-02-11 23:14:39] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:14:39] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:14:39] 📤 Tentando responder callback: 27359704085926970
+[2026-02-11 23:14:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:44] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:44]    └─ Data: MENU_CONSULTAS|5175957490
+[2026-02-11 23:14:44]    └─ From: 5175957490
+[2026-02-11 23:14:44]    └─ Age: 7s (0h)
+[2026-02-11 23:14:44] 📤 Tentando responder callback: 3783824071957370827
+[2026-02-11 23:14:45] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:45] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:45] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824071957370827","data":"MENU_CONSULTAS|5175957490","from_id":5175957490,"message_date":1770862477,"age_seconds":8,"age_hours":0}
+[2026-02-11 23:14:45] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:14:45] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:14:45] 📤 Tentando responder callback: 3783824071957370827
+[2026-02-11 23:14:45] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:49] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:52]    └─ Data: CONSULTA_NOME|5175957490
+[2026-02-11 23:14:52]    └─ From: 5175957490
+[2026-02-11 23:14:52]    └─ Age: 12s (0h)
+[2026-02-11 23:14:52] 📤 Tentando responder callback: 3783824071463535981
+[2026-02-11 23:14:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:53] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:53] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824071463535981","data":"CONSULTA_NOME|5175957490","from_id":5175957490,"message_date":1770862477,"age_seconds":16,"age_hours":0}
+[2026-02-11 23:14:53] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:14:53] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:14:53] 📤 Tentando responder callback: 3783824071463535981
+[2026-02-11 23:14:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:56] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:56]    └─ Data: CPF_BASE|5726496601|credilinkcpf|02578959307|9910
+[2026-02-11 23:14:56]    └─ From: 5726496601
+[2026-02-11 23:14:56]    └─ Age: 3s (0h)
+[2026-02-11 23:14:56] 📤 Tentando responder callback: 6148371552020801558
+[2026-02-11 23:14:56] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:56]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:14:56]    └─ From: 8596304769
+[2026-02-11 23:14:56]    └─ Age: 150s (0h)
+[2026-02-11 23:14:56] 📤 Tentando responder callback: 27359703687825692
+[2026-02-11 23:14:56] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:56] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:56] 🔔 CALLBACK RECEBIDO: {"callback_id":"6148371552020801558","data":"CPF_BASE|5726496601|credilinkcpf|02578959307|9910","from_id":5726496601,"message_date":1770862493,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:14:56] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5726496601, fromId=5726496601
+[2026-02-11 23:14:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:57] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:57] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359703687825692","data":"CONSULTA_TELEFONE|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":151,"age_hours":0}
+[2026-02-11 23:14:57] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:14:57] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:14:57] 📤 Tentando responder callback: 27359703687825692
+[2026-02-11 23:14:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:58] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:14:58] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:14:58]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:14:58]    └─ From: 8596304769
+[2026-02-11 23:14:58]    └─ Age: 152s (0h)
+[2026-02-11 23:14:58] 📤 Tentando responder callback: 27359705814497112
+[2026-02-11 23:14:59] ✅ Callback respondido com sucesso!
+[2026-02-11 23:14:59] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:14:59] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359705814497112","data":"CONSULTA_TELEFONE|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":153,"age_hours":0}
+[2026-02-11 23:14:59] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:14:59] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:14:59] 📤 Tentando responder callback: 27359705814497112
+[2026-02-11 23:14:59] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:00] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:05] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:05]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:15:05]    └─ From: 8596304769
+[2026-02-11 23:15:05]    └─ Age: 159s (0h)
+[2026-02-11 23:15:05] 📤 Tentando responder callback: 27359704734795128
+[2026-02-11 23:15:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:05] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:05] 🔔 CALLBACK RECEBIDO: {"callback_id":"27359704734795128","data":"CONSULTA_TELEFONE|1087968824","from_id":8596304769,"message_date":1770862346,"age_seconds":159,"age_hours":0}
+[2026-02-11 23:15:05] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=8596304769
+[2026-02-11 23:15:05] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:15:05] 📤 Tentando responder callback: 27359704734795128
+[2026-02-11 23:15:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:06] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:24] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:24]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:24]    └─ From: 6546265437
+[2026-02-11 23:15:24]    └─ Age: 9469s (2.6h)
+[2026-02-11 23:15:24] 📤 Tentando responder callback: 445879853441239332
+[2026-02-11 23:15:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:25] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:25] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853441239332","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9470,"age_hours":2.6}
+[2026-02-11 23:15:25] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:25] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:25] 📤 Tentando responder callback: 445879853441239332
+[2026-02-11 23:15:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:33] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:33]    └─ Data: CPF_BASE|8291108280|credilinkcpf|60302143572|512299
+[2026-02-11 23:15:33]    └─ From: 8291108280
+[2026-02-11 23:15:33]    └─ Age: 2s (0h)
+[2026-02-11 23:15:33] 📤 Tentando responder callback: 7939922801245815860
+[2026-02-11 23:15:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:34] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:34] 🔔 CALLBACK RECEBIDO: {"callback_id":"7939922801245815860","data":"CPF_BASE|8291108280|credilinkcpf|60302143572|512299","from_id":8291108280,"message_date":1770862531,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:15:34] 🔍 Callback com pipe: action=CPF_BASE, ownerId=8291108280, fromId=8291108280
+[2026-02-11 23:15:37] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:37]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:37]    └─ From: 6546265437
+[2026-02-11 23:15:37]    └─ Age: 9482s (2.6h)
+[2026-02-11 23:15:37] 📤 Tentando responder callback: 445879855987008665
+[2026-02-11 23:15:37] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:37] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:37] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855987008665","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9482,"age_hours":2.6}
+[2026-02-11 23:15:37] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:37] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:37] 📤 Tentando responder callback: 445879855987008665
+[2026-02-11 23:15:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:38] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:38] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:38]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:38]    └─ From: 6546265437
+[2026-02-11 23:15:38]    └─ Age: 9483s (2.6h)
+[2026-02-11 23:15:38] 📤 Tentando responder callback: 445879853583354848
+[2026-02-11 23:15:39] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:39] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:39] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853583354848","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9484,"age_hours":2.6}
+[2026-02-11 23:15:39] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:39] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:39] 📤 Tentando responder callback: 445879853583354848
+[2026-02-11 23:15:39] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:39]    └─ Data: CPF_BASE|7694557635|cpflocal|00686813804|157766
+[2026-02-11 23:15:39]    └─ From: 7694557635
+[2026-02-11 23:15:39]    └─ Age: 4s (0h)
+[2026-02-11 23:15:39] 📤 Tentando responder callback: 5377757292510395101
+[2026-02-11 23:15:39] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:40] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:40] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:40]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:40]    └─ From: 6546265437
+[2026-02-11 23:15:40]    └─ Age: 9485s (2.6h)
+[2026-02-11 23:15:40] 📤 Tentando responder callback: 445879855789265056
+[2026-02-11 23:15:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:40] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:40] 🔔 CALLBACK RECEBIDO: {"callback_id":"5377757292510395101","data":"CPF_BASE|7694557635|cpflocal|00686813804|157766","from_id":7694557635,"message_date":1770862535,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:15:40] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7694557635, fromId=7694557635
+[2026-02-11 23:15:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:41] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:41] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855789265056","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9486,"age_hours":2.6}
+[2026-02-11 23:15:41] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:41] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:41] 📤 Tentando responder callback: 445879855789265056
+[2026-02-11 23:15:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:41] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:41]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:41]    └─ From: 6546265437
+[2026-02-11 23:15:41]    └─ Age: 9486s (2.6h)
+[2026-02-11 23:15:41] 📤 Tentando responder callback: 445879855029782058
+[2026-02-11 23:15:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855029782058","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9487,"age_hours":2.6}
+[2026-02-11 23:15:42] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:42] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:42] 📤 Tentando responder callback: 445879855029782058
+[2026-02-11 23:15:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:43] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:43]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:15:43]    └─ From: 6546265437
+[2026-02-11 23:15:43]    └─ Age: 9488s (2.6h)
+[2026-02-11 23:15:43] 📤 Tentando responder callback: 445879852947285784
+[2026-02-11 23:15:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:15:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879852947285784","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9489,"age_hours":2.6}
+[2026-02-11 23:15:44] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:15:44] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:15:44] 📤 Tentando responder callback: 445879852947285784
+[2026-02-11 23:15:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:15:44] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:15:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:15:59]    └─ Data: CPF_BASE|5175957490|cpflocal|42660927847|22149
+[2026-02-11 23:15:59]    └─ From: 5175957490
+[2026-02-11 23:15:59]    └─ Age: 7s (0h)
+[2026-02-11 23:15:59] 📤 Tentando responder callback: 3783824074364331456
+[2026-02-11 23:16:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:00] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:00] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074364331456","data":"CPF_BASE|5175957490|cpflocal|42660927847|22149","from_id":5175957490,"message_date":1770862552,"age_seconds":8,"age_hours":0}
+[2026-02-11 23:16:00] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:16:03] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:03]    └─ Data: APAGAR|7641668046|271160
+[2026-02-11 23:16:03]    └─ From: 7641668046
+[2026-02-11 23:16:03]    └─ Age: 69s (0h)
+[2026-02-11 23:16:03] 📤 Tentando responder callback: 5150598236762267723
+[2026-02-11 23:16:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:04] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:04] 🔔 CALLBACK RECEBIDO: {"callback_id":"5150598236762267723","data":"APAGAR|7641668046|271160","from_id":7641668046,"message_date":1770862494,"age_seconds":70,"age_hours":0}
+[2026-02-11 23:16:04] 🔍 Callback com pipe: action=APAGAR, ownerId=7641668046, fromId=7641668046
+[2026-02-11 23:16:04] 📤 Tentando responder callback: 5150598236762267723
+[2026-02-11 23:16:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:05] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message to delete not found"}
+[2026-02-11 23:16:14] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:14]    └─ Data: CONSULTA_NOME|8399390258
+[2026-02-11 23:16:14]    └─ From: 6546265437
+[2026-02-11 23:16:14]    └─ Age: 11549s (3.2h)
+[2026-02-11 23:16:14] 📤 Tentando responder callback: 445879855873527696
+[2026-02-11 23:16:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:14] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:14] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855873527696","data":"CONSULTA_NOME|8399390258","from_id":6546265437,"message_date":1770851025,"age_seconds":11549,"age_hours":3.2}
+[2026-02-11 23:16:14] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=8399390258, fromId=6546265437
+[2026-02-11 23:16:14] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:16:14] 📤 Tentando responder callback: 445879855873527696
+[2026-02-11 23:16:15] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:18] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:18]    └─ Data: CONSULTA_BIN|5888419172
+[2026-02-11 23:16:18]    └─ From: 6546265437
+[2026-02-11 23:16:18]    └─ Age: 9523s (2.6h)
+[2026-02-11 23:16:18] 📤 Tentando responder callback: 445879856561355346
+[2026-02-11 23:16:19] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:19] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:19] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879856561355346","data":"CONSULTA_BIN|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9524,"age_hours":2.6}
+[2026-02-11 23:16:19] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:16:19] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:16:19] 📤 Tentando responder callback: 445879856561355346
+[2026-02-11 23:16:19] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:20] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:20]    └─ Data: CONSULTA_BIN|5888419172
+[2026-02-11 23:16:20]    └─ From: 6546265437
+[2026-02-11 23:16:20]    └─ Age: 9525s (2.6h)
+[2026-02-11 23:16:20] 📤 Tentando responder callback: 445879854700010189
+[2026-02-11 23:16:21] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:21] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:21] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879854700010189","data":"CONSULTA_BIN|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9526,"age_hours":2.6}
+[2026-02-11 23:16:21] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:16:21] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:16:21] 📤 Tentando responder callback: 445879854700010189
+[2026-02-11 23:16:21] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:21] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:16:22] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:22]    └─ Data: MENU_CONSULTAS|8296444123
+[2026-02-11 23:16:22]    └─ From: 8296444123
+[2026-02-11 23:16:22]    └─ Age: 2s (0h)
+[2026-02-11 23:16:22] 📤 Tentando responder callback: 7962840071973668845
+[2026-02-11 23:16:23] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:23] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:23] 🔔 CALLBACK RECEBIDO: {"callback_id":"7962840071973668845","data":"MENU_CONSULTAS|8296444123","from_id":8296444123,"message_date":1770862580,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:16:23] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=8296444123, fromId=8296444123
+[2026-02-11 23:16:23] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:16:23] 📤 Tentando responder callback: 7962840071973668845
+[2026-02-11 23:16:23] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:25] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:25]    └─ Data: CONSULTA_PLACA|8296444123
+[2026-02-11 23:16:25]    └─ From: 8296444123
+[2026-02-11 23:16:25]    └─ Age: 5s (0h)
+[2026-02-11 23:16:25] 📤 Tentando responder callback: 7962840073209538573
+[2026-02-11 23:16:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:26] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:26] 🔔 CALLBACK RECEBIDO: {"callback_id":"7962840073209538573","data":"CONSULTA_PLACA|8296444123","from_id":8296444123,"message_date":1770862580,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:16:26] 🔍 Callback com pipe: action=CONSULTA_PLACA, ownerId=8296444123, fromId=8296444123
+[2026-02-11 23:16:26] ✅ Ação liberada para todos: CONSULTA_PLACA
+[2026-02-11 23:16:26] 📤 Tentando responder callback: 7962840073209538573
+[2026-02-11 23:16:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:27] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:27]    └─ Data: APAGAR|8291108280|512303
+[2026-02-11 23:16:27]    └─ From: 7975851807
+[2026-02-11 23:16:27]    └─ Age: 7s (0h)
+[2026-02-11 23:16:27] 📤 Tentando responder callback: 6585906558732141428
+[2026-02-11 23:16:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:28] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:28] 🔔 CALLBACK RECEBIDO: {"callback_id":"6585906558732141428","data":"APAGAR|8291108280|512303","from_id":7975851807,"message_date":1770862580,"age_seconds":8,"age_hours":0}
+[2026-02-11 23:16:28] 🔍 Callback com pipe: action=APAGAR, ownerId=8291108280, fromId=7975851807
+[2026-02-11 23:16:28] ⚠️ Bloqueado: fromId 7975851807 != ownerId 8291108280 para action APAGAR
+[2026-02-11 23:16:48] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:48]    └─ Data: APAGAR|8291108280|512307
+[2026-02-11 23:16:48]    └─ From: 8291108280
+[2026-02-11 23:16:48]    └─ Age: 12s (0h)
+[2026-02-11 23:16:48] 📤 Tentando responder callback: 7939922799847871045
+[2026-02-11 23:16:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:48] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:48] 🔔 CALLBACK RECEBIDO: {"callback_id":"7939922799847871045","data":"APAGAR|8291108280|512307","from_id":8291108280,"message_date":1770862596,"age_seconds":12,"age_hours":0}
+[2026-02-11 23:16:48] 🔍 Callback com pipe: action=APAGAR, ownerId=8291108280, fromId=8291108280
+[2026-02-11 23:16:48] 📤 Tentando responder callback: 7939922799847871045
+[2026-02-11 23:16:49] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:53] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:16:53]    └─ Data: APAGAR|8291108280|512299
+[2026-02-11 23:16:53]    └─ From: 8291108280
+[2026-02-11 23:16:53]    └─ Age: 79s (0h)
+[2026-02-11 23:16:53] 📤 Tentando responder callback: 7939922800525987662
+[2026-02-11 23:16:54] ✅ Callback respondido com sucesso!
+[2026-02-11 23:16:54] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:16:54] 🔔 CALLBACK RECEBIDO: {"callback_id":"7939922800525987662","data":"APAGAR|8291108280|512299","from_id":8291108280,"message_date":1770862534,"age_seconds":80,"age_hours":0}
+[2026-02-11 23:16:54] 🔍 Callback com pipe: action=APAGAR, ownerId=8291108280, fromId=8291108280
+[2026-02-11 23:16:54] 📤 Tentando responder callback: 7939922800525987662
+[2026-02-11 23:16:54] ✅ Callback respondido com sucesso!
+[2026-02-11 23:17:12] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:17:12]    └─ Data: CPF_BASE|7578704794|credilinkcpf|13526675686|34
+[2026-02-11 23:17:12]    └─ From: 7578704794
+[2026-02-11 23:17:12]    └─ Age: 1s (0h)
+[2026-02-11 23:17:12] 📤 Tentando responder callback: 4880173126686883462
+[2026-02-11 23:17:13] ✅ Callback respondido com sucesso!
+[2026-02-11 23:17:13] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:17:13] 🔔 CALLBACK RECEBIDO: {"callback_id":"4880173126686883462","data":"CPF_BASE|7578704794|credilinkcpf|13526675686|34","from_id":7578704794,"message_date":1770862631,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:17:13] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7578704794, fromId=7578704794
+[2026-02-11 23:17:18] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:17:18]    └─ Data: CPF_BASE|5726496601|cpflocal|02578959307|297408
+[2026-02-11 23:17:18]    └─ From: 5726496601
+[2026-02-11 23:17:18]    └─ Age: 5s (0h)
+[2026-02-11 23:17:18] 📤 Tentando responder callback: 6148371551101278158
+[2026-02-11 23:17:18] ✅ Callback respondido com sucesso!
+[2026-02-11 23:17:18] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:17:18] 🔔 CALLBACK RECEBIDO: {"callback_id":"6148371551101278158","data":"CPF_BASE|5726496601|cpflocal|02578959307|297408","from_id":5726496601,"message_date":1770862633,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:17:18] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5726496601, fromId=5726496601
+[2026-02-11 23:17:22] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:17:22]    └─ Data: APAGAR|8291108280|512303
+[2026-02-11 23:17:22]    └─ From: 7975851807
+[2026-02-11 23:17:22]    └─ Age: 62s (0h)
+[2026-02-11 23:17:22] 📤 Tentando responder callback: 6585906561689625437
+[2026-02-11 23:17:22] ✅ Callback respondido com sucesso!
+[2026-02-11 23:17:22] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:17:22] 🔔 CALLBACK RECEBIDO: {"callback_id":"6585906561689625437","data":"APAGAR|8291108280|512303","from_id":7975851807,"message_date":1770862580,"age_seconds":62,"age_hours":0}
+[2026-02-11 23:17:22] 🔍 Callback com pipe: action=APAGAR, ownerId=8291108280, fromId=7975851807
+[2026-02-11 23:17:22] ⚠️ Bloqueado: fromId 7975851807 != ownerId 8291108280 para action APAGAR
+[2026-02-11 23:17:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:17:59]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:17:59]    └─ From: 6546265437
+[2026-02-11 23:17:59]    └─ Age: 9624s (2.7h)
+[2026-02-11 23:17:59] 📤 Tentando responder callback: 445879856546874460
+[2026-02-11 23:18:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:00] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:00] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879856546874460","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9625,"age_hours":2.7}
+[2026-02-11 23:18:00] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:00] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:00] 📤 Tentando responder callback: 445879856546874460
+[2026-02-11 23:18:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:01] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:01]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:01]    └─ From: 6546265437
+[2026-02-11 23:18:01]    └─ Age: 9626s (2.7h)
+[2026-02-11 23:18:01] 📤 Tentando responder callback: 445879853510152224
+[2026-02-11 23:18:02] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:02] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:02] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853510152224","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9627,"age_hours":2.7}
+[2026-02-11 23:18:02] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:02] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:02] 📤 Tentando responder callback: 445879853510152224
+[2026-02-11 23:18:02] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:02] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:03] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:03]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:03]    └─ From: 6546265437
+[2026-02-11 23:18:03]    └─ Age: 9628s (2.7h)
+[2026-02-11 23:18:03] 📤 Tentando responder callback: 445879856304854546
+[2026-02-11 23:18:03] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:03] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:03] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879856304854546","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9628,"age_hours":2.7}
+[2026-02-11 23:18:03] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:03] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:03] 📤 Tentando responder callback: 445879856304854546
+[2026-02-11 23:18:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:04] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:04] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:04]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:04]    └─ From: 6546265437
+[2026-02-11 23:18:04]    └─ Age: 9629s (2.7h)
+[2026-02-11 23:18:04] 📤 Tentando responder callback: 445879855173974648
+[2026-02-11 23:18:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:05] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:05] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855173974648","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9630,"age_hours":2.7}
+[2026-02-11 23:18:05] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:05] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:05] 📤 Tentando responder callback: 445879855173974648
+[2026-02-11 23:18:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:05] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:06] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:06]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:06]    └─ From: 6546265437
+[2026-02-11 23:18:06]    └─ Age: 9631s (2.7h)
+[2026-02-11 23:18:06] 📤 Tentando responder callback: 445879855465673276
+[2026-02-11 23:18:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:06] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:06] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879855465673276","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9631,"age_hours":2.7}
+[2026-02-11 23:18:06] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:06] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:06] 📤 Tentando responder callback: 445879855465673276
+[2026-02-11 23:18:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:07] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:07] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:07]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:07]    └─ From: 6546265437
+[2026-02-11 23:18:07]    └─ Age: 9632s (2.7h)
+[2026-02-11 23:18:07] 📤 Tentando responder callback: 445879854289877944
+[2026-02-11 23:18:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:08] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:08] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879854289877944","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9633,"age_hours":2.7}
+[2026-02-11 23:18:08] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:08] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:08] 📤 Tentando responder callback: 445879854289877944
+[2026-02-11 23:18:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:08] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:09] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:09]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:09]    └─ From: 6546265437
+[2026-02-11 23:18:09]    └─ Age: 9634s (2.7h)
+[2026-02-11 23:18:09] 📤 Tentando responder callback: 445879853057199605
+[2026-02-11 23:18:09] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:09] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:09] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853057199605","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9634,"age_hours":2.7}
+[2026-02-11 23:18:09] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:09] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:09] 📤 Tentando responder callback: 445879853057199605
+[2026-02-11 23:18:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:10] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:10] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:10]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:10]    └─ From: 6546265437
+[2026-02-11 23:18:10]    └─ Age: 9635s (2.7h)
+[2026-02-11 23:18:10] 📤 Tentando responder callback: 445879853880181539
+[2026-02-11 23:18:11] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:11] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:11] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853880181539","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9636,"age_hours":2.7}
+[2026-02-11 23:18:11] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:11] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:11] 📤 Tentando responder callback: 445879853880181539
+[2026-02-11 23:18:11] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:11] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:12] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:12]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:12]    └─ From: 6546265437
+[2026-02-11 23:18:12]    └─ Age: 9637s (2.7h)
+[2026-02-11 23:18:12] 📤 Tentando responder callback: 445879853851412174
+[2026-02-11 23:18:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:12] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:12] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853851412174","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9637,"age_hours":2.7}
+[2026-02-11 23:18:12] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:12] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:12] 📤 Tentando responder callback: 445879853851412174
+[2026-02-11 23:18:13] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:13] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:13] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:13]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:13]    └─ From: 6546265437
+[2026-02-11 23:18:13]    └─ Age: 9638s (2.7h)
+[2026-02-11 23:18:13] 📤 Tentando responder callback: 445879853396542658
+[2026-02-11 23:18:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:14] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:14] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853396542658","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9639,"age_hours":2.7}
+[2026-02-11 23:18:14] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:14] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:14] 📤 Tentando responder callback: 445879853396542658
+[2026-02-11 23:18:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:14] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:20] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:20]    └─ Data: CPF_BASE|5175957490|credilinkcpf|42660927847|22152
+[2026-02-11 23:18:20]    └─ From: 5175957490
+[2026-02-11 23:18:20]    └─ Age: 1s (0h)
+[2026-02-11 23:18:20] 📤 Tentando responder callback: 3783824074586940682
+[2026-02-11 23:18:21] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:21] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:21] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074586940682","data":"CPF_BASE|5175957490|credilinkcpf|42660927847|22152","from_id":5175957490,"message_date":1770862699,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:18:21] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:18:39] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:39]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:39]    └─ From: 6546265437
+[2026-02-11 23:18:39]    └─ Age: 9664s (2.7h)
+[2026-02-11 23:18:39] 📤 Tentando responder callback: 445879853438782554
+[2026-02-11 23:18:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:40] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:40] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853438782554","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9665,"age_hours":2.7}
+[2026-02-11 23:18:40] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:40] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:40] 📤 Tentando responder callback: 445879853438782554
+[2026-02-11 23:18:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:40] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:40] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:40]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:40]    └─ From: 6546265437
+[2026-02-11 23:18:40]    └─ Age: 9665s (2.7h)
+[2026-02-11 23:18:40] 📤 Tentando responder callback: 445879856097750378
+[2026-02-11 23:18:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:41] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:41] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879856097750378","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9666,"age_hours":2.7}
+[2026-02-11 23:18:41] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:41] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:41] 📤 Tentando responder callback: 445879856097750378
+[2026-02-11 23:18:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:42] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:42] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:42]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:42]    └─ From: 6546265437
+[2026-02-11 23:18:42]    └─ Age: 9667s (2.7h)
+[2026-02-11 23:18:42] 📤 Tentando responder callback: 445879854612812990
+[2026-02-11 23:18:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:43] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:43] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879854612812990","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9668,"age_hours":2.7}
+[2026-02-11 23:18:43] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:43] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:43] 📤 Tentando responder callback: 445879854612812990
+[2026-02-11 23:18:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:43] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:43]    └─ Data: MENU_CONSULTAS|6546265437
+[2026-02-11 23:18:43]    └─ From: 6546265437
+[2026-02-11 23:18:43]    └─ Age: 35s (0h)
+[2026-02-11 23:18:43] 📤 Tentando responder callback: 445879852818488572
+[2026-02-11 23:18:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879852818488572","data":"MENU_CONSULTAS|6546265437","from_id":6546265437,"message_date":1770862688,"age_seconds":36,"age_hours":0}
+[2026-02-11 23:18:44] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=6546265437, fromId=6546265437
+[2026-02-11 23:18:44] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:18:44] 📤 Tentando responder callback: 445879852818488572
+[2026-02-11 23:18:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:45]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:45]    └─ From: 6546265437
+[2026-02-11 23:18:45]    └─ Age: 9670s (2.7h)
+[2026-02-11 23:18:45] 📤 Tentando responder callback: 445879853268065919
+[2026-02-11 23:18:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:46] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:46] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853268065919","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9671,"age_hours":2.7}
+[2026-02-11 23:18:46] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:46] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:46] 📤 Tentando responder callback: 445879853268065919
+[2026-02-11 23:18:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:46] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:18:47] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:18:47]    └─ Data: CONSULTA_NOME|5888419172
+[2026-02-11 23:18:47]    └─ From: 6546265437
+[2026-02-11 23:18:47]    └─ Age: 9672s (2.7h)
+[2026-02-11 23:18:47] 📤 Tentando responder callback: 445879853660826315
+[2026-02-11 23:18:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:47] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:18:47] 🔔 CALLBACK RECEBIDO: {"callback_id":"445879853660826315","data":"CONSULTA_NOME|5888419172","from_id":6546265437,"message_date":1770853055,"age_seconds":9672,"age_hours":2.7}
+[2026-02-11 23:18:47] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=5888419172, fromId=6546265437
+[2026-02-11 23:18:47] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:18:47] 📤 Tentando responder callback: 445879853660826315
+[2026-02-11 23:18:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:18:48] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:19:02] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:19:02]    └─ Data: MENU_CONSULTAS|744154843
+[2026-02-11 23:19:02]    └─ From: 744154843
+[2026-02-11 23:19:02]    └─ Age: 2s (0h)
+[2026-02-11 23:19:02] 📤 Tentando responder callback: 3196120717023659686
+[2026-02-11 23:19:03] ✅ Callback respondido com sucesso!
+[2026-02-11 23:19:03] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:19:03] 🔔 CALLBACK RECEBIDO: {"callback_id":"3196120717023659686","data":"MENU_CONSULTAS|744154843","from_id":744154843,"message_date":1770862740,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:19:03] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=744154843, fromId=744154843
+[2026-02-11 23:19:03] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:19:03] 📤 Tentando responder callback: 3196120717023659686
+[2026-02-11 23:19:03] ✅ Callback respondido com sucesso!
+[2026-02-11 23:19:06] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:19:06]    └─ Data: CONSULTA_TELEFONE|744154843
+[2026-02-11 23:19:06]    └─ From: 744154843
+[2026-02-11 23:19:06]    └─ Age: 6s (0h)
+[2026-02-11 23:19:06] 📤 Tentando responder callback: 3196120714266888320
+[2026-02-11 23:19:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:19:07] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:19:07] 🔔 CALLBACK RECEBIDO: {"callback_id":"3196120714266888320","data":"CONSULTA_TELEFONE|744154843","from_id":744154843,"message_date":1770862740,"age_seconds":7,"age_hours":0}
+[2026-02-11 23:19:07] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=744154843, fromId=744154843
+[2026-02-11 23:19:07] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:19:07] 📤 Tentando responder callback: 3196120714266888320
+[2026-02-11 23:19:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:19:16] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:19:16]    └─ Data: APAGAR|5175957490|22152
+[2026-02-11 23:19:16]    └─ From: 5175957490
+[2026-02-11 23:19:16]    └─ Age: 55s (0h)
+[2026-02-11 23:19:16] 📤 Tentando responder callback: 3783824074650359940
+[2026-02-11 23:19:16] ✅ Callback respondido com sucesso!
+[2026-02-11 23:19:16] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:19:16] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074650359940","data":"APAGAR|5175957490|22152","from_id":5175957490,"message_date":1770862701,"age_seconds":55,"age_hours":0}
+[2026-02-11 23:19:16] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:19:16] 📤 Tentando responder callback: 3783824074650359940
+[2026-02-11 23:19:17] ✅ Callback respondido com sucesso!
+[2026-02-11 23:20:32] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:20:32]    └─ Data: CONSULTA_TELEFONE|5175957490
+[2026-02-11 23:20:32]    └─ From: 5175957490
+[2026-02-11 23:20:32]    └─ Age: 355s (0.1h)
+[2026-02-11 23:20:32] 📤 Tentando responder callback: 3783824072327220334
+[2026-02-11 23:20:32] ✅ Callback respondido com sucesso!
+[2026-02-11 23:20:32] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:20:32] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824072327220334","data":"CONSULTA_TELEFONE|5175957490","from_id":5175957490,"message_date":1770862477,"age_seconds":355,"age_hours":0.1}
+[2026-02-11 23:20:32] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:20:32] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:20:32] 📤 Tentando responder callback: 3783824072327220334
+[2026-02-11 23:20:33] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:25] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:21:25]    └─ Data: APAGAR|5175957490|22155
+[2026-02-11 23:21:25]    └─ From: 5175957490
+[2026-02-11 23:21:25]    └─ Age: 26s (0h)
+[2026-02-11 23:21:25] 📤 Tentando responder callback: 3783824072759454643
+[2026-02-11 23:21:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:26] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:21:26] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824072759454643","data":"APAGAR|5175957490|22155","from_id":5175957490,"message_date":1770862859,"age_seconds":27,"age_hours":0}
+[2026-02-11 23:21:26] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:21:26] 📤 Tentando responder callback: 3783824072759454643
+[2026-02-11 23:21:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:33] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:21:33]    └─ Data: CONSULTA_CPF|1087968824
+[2026-02-11 23:21:33]    └─ From: 7741922759
+[2026-02-11 23:21:33]    └─ Age: 547s (0.2h)
+[2026-02-11 23:21:33] 📤 Tentando responder callback: 5581188951729571731
+[2026-02-11 23:21:33] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:33] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:21:33] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188951729571731","data":"CONSULTA_CPF|1087968824","from_id":7741922759,"message_date":1770862346,"age_seconds":547,"age_hours":0.2}
+[2026-02-11 23:21:33] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=1087968824, fromId=7741922759
+[2026-02-11 23:21:33] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:21:33] 📤 Tentando responder callback: 5581188951729571731
+[2026-02-11 23:21:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:36] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:21:36]    └─ Data: CONSULTA_CPF|1087968824
+[2026-02-11 23:21:36]    └─ From: 7741922759
+[2026-02-11 23:21:36]    └─ Age: 550s (0.2h)
+[2026-02-11 23:21:36] 📤 Tentando responder callback: 5581188950122568236
+[2026-02-11 23:21:36] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:36] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:21:36] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188950122568236","data":"CONSULTA_CPF|1087968824","from_id":7741922759,"message_date":1770862346,"age_seconds":550,"age_hours":0.2}
+[2026-02-11 23:21:36] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=1087968824, fromId=7741922759
+[2026-02-11 23:21:36] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:21:36] 📤 Tentando responder callback: 5581188950122568236
+[2026-02-11 23:21:37] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:37] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:21:40] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:21:40]    └─ Data: CONSULTA_TELEFONE|1087968824
+[2026-02-11 23:21:40]    └─ From: 7741922759
+[2026-02-11 23:21:40]    └─ Age: 554s (0.2h)
+[2026-02-11 23:21:40] 📤 Tentando responder callback: 5581188951141173126
+[2026-02-11 23:21:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:41] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:21:41] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188951141173126","data":"CONSULTA_TELEFONE|1087968824","from_id":7741922759,"message_date":1770862346,"age_seconds":555,"age_hours":0.2}
+[2026-02-11 23:21:41] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=1087968824, fromId=7741922759
+[2026-02-11 23:21:41] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:21:41] 📤 Tentando responder callback: 5581188951141173126
+[2026-02-11 23:21:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:21:41]    └─ Data: APAGAR|5175957490|22157
+[2026-02-11 23:21:41]    └─ From: 5175957490
+[2026-02-11 23:21:41]    └─ Age: 5s (0h)
+[2026-02-11 23:21:41] 📤 Tentando responder callback: 3783824074419026006
+[2026-02-11 23:21:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:21:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:21:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074419026006","data":"APAGAR|5175957490|22157","from_id":5175957490,"message_date":1770862896,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:21:42] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:21:42] 📤 Tentando responder callback: 3783824074419026006
+[2026-02-11 23:21:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:04] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:22:04]    └─ Data: MENU_CONSULTAS|7644361151
+[2026-02-11 23:22:04]    └─ From: 7644361151
+[2026-02-11 23:22:04]    └─ Age: 2s (0h)
+[2026-02-11 23:22:04] 📤 Tentando responder callback: 5162165035647615770
+[2026-02-11 23:22:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:05] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:22:05] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165035647615770","data":"MENU_CONSULTAS|7644361151","from_id":7644361151,"message_date":1770862922,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:22:05] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:22:05] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:22:05] 📤 Tentando responder callback: 5162165035647615770
+[2026-02-11 23:22:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:07] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:22:07]    └─ Data: CONSULTA_TELEFONE|7644361151
+[2026-02-11 23:22:07]    └─ From: 7644361151
+[2026-02-11 23:22:07]    └─ Age: 5s (0h)
+[2026-02-11 23:22:07] 📤 Tentando responder callback: 5162165031825083871
+[2026-02-11 23:22:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:08] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:22:08] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165031825083871","data":"CONSULTA_TELEFONE|7644361151","from_id":7644361151,"message_date":1770862922,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:22:08] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:22:08] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:22:08] 📤 Tentando responder callback: 5162165031825083871
+[2026-02-11 23:22:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:35] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:22:35]    └─ Data: APAGAR|7741922759|10835
+[2026-02-11 23:22:35]    └─ From: 7741922759
+[2026-02-11 23:22:35]    └─ Age: 27s (0h)
+[2026-02-11 23:22:35] 📤 Tentando responder callback: 5581188951535379525
+[2026-02-11 23:22:36] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:36] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:22:36] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188951535379525","data":"APAGAR|7741922759|10835","from_id":7741922759,"message_date":1770862928,"age_seconds":28,"age_hours":0}
+[2026-02-11 23:22:36] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:22:36] 📤 Tentando responder callback: 5581188951535379525
+[2026-02-11 23:22:36] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:49] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:22:49]    └─ Data: MENU_CONSULTAS|7644361151
+[2026-02-11 23:22:49]    └─ From: 7644361151
+[2026-02-11 23:22:49]    └─ Age: 3s (0h)
+[2026-02-11 23:22:49] 📤 Tentando responder callback: 5162165034409663347
+[2026-02-11 23:22:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:50] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:22:50] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165034409663347","data":"MENU_CONSULTAS|7644361151","from_id":7644361151,"message_date":1770862966,"age_seconds":4,"age_hours":0}
+[2026-02-11 23:22:50] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:22:50] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:22:50] 📤 Tentando responder callback: 5162165034409663347
+[2026-02-11 23:22:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:52] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:22:52]    └─ Data: CONSULTA_NOME|7644361151
+[2026-02-11 23:22:52]    └─ From: 7644361151
+[2026-02-11 23:22:52]    └─ Age: 6s (0h)
+[2026-02-11 23:22:52] 📤 Tentando responder callback: 5162165033812952966
+[2026-02-11 23:22:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:22:53] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:22:53] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165033812952966","data":"CONSULTA_NOME|7644361151","from_id":7644361151,"message_date":1770862966,"age_seconds":7,"age_hours":0}
+[2026-02-11 23:22:53] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:22:53] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:22:53] 📤 Tentando responder callback: 5162165033812952966
+[2026-02-11 23:22:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:08] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:23:08]    └─ Data: MENU_CONSULTAS|7644361151
+[2026-02-11 23:23:08]    └─ From: 7644361151
+[2026-02-11 23:23:08]    └─ Age: 2s (0h)
+[2026-02-11 23:23:08] 📤 Tentando responder callback: 5162165033517210595
+[2026-02-11 23:23:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:08] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:23:08] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165033517210595","data":"MENU_CONSULTAS|7644361151","from_id":7644361151,"message_date":1770862986,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:23:08] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:23:08] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:23:08] 📤 Tentando responder callback: 5162165033517210595
+[2026-02-11 23:23:09] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:11] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:23:11]    └─ Data: CONSULTA_CPF|7644361151
+[2026-02-11 23:23:11]    └─ From: 7644361151
+[2026-02-11 23:23:11]    └─ Age: 5s (0h)
+[2026-02-11 23:23:11] 📤 Tentando responder callback: 5162165031944261113
+[2026-02-11 23:23:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:12] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:23:12] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165031944261113","data":"CONSULTA_CPF|7644361151","from_id":7644361151,"message_date":1770862986,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:23:12] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:23:12] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:23:12] 📤 Tentando responder callback: 5162165031944261113
+[2026-02-11 23:23:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:28] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:23:28]    └─ Data: CPF_BASE|7644361151|cpfsisregi|89004507000|512327
+[2026-02-11 23:23:28]    └─ From: 7644361151
+[2026-02-11 23:23:28]    └─ Age: 4s (0h)
+[2026-02-11 23:23:28] 📤 Tentando responder callback: 5162165034740473560
+[2026-02-11 23:23:29] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:29] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:23:29] 🔔 CALLBACK RECEBIDO: {"callback_id":"5162165034740473560","data":"CPF_BASE|7644361151|cpfsisregi|89004507000|512327","from_id":7644361151,"message_date":1770863004,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:23:29] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7644361151, fromId=7644361151
+[2026-02-11 23:23:33] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:23:33]    └─ Data: APAGAR|7741922759|10838
+[2026-02-11 23:23:33]    └─ From: 7741922759
+[2026-02-11 23:23:33]    └─ Age: 39s (0h)
+[2026-02-11 23:23:33] 📤 Tentando responder callback: 5581188948550803485
+[2026-02-11 23:23:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:23:34] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:23:34] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188948550803485","data":"APAGAR|7741922759|10838","from_id":7741922759,"message_date":1770862974,"age_seconds":40,"age_hours":0}
+[2026-02-11 23:23:34] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:23:34] 📤 Tentando responder callback: 5581188948550803485
+[2026-02-11 23:23:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:24:46] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:24:46]    └─ Data: APAGAR|1229533305|1589043
+[2026-02-11 23:24:46]    └─ From: 1229533305
+[2026-02-11 23:24:46]    └─ Age: 201s (0.1h)
+[2026-02-11 23:24:46] 📤 Tentando responder callback: 5280805337161987259
+[2026-02-11 23:24:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:24:47] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:24:47] 🔔 CALLBACK RECEBIDO: {"callback_id":"5280805337161987259","data":"APAGAR|1229533305|1589043","from_id":1229533305,"message_date":1770862885,"age_seconds":202,"age_hours":0.1}
+[2026-02-11 23:24:47] 🔍 Callback com pipe: action=APAGAR, ownerId=1229533305, fromId=1229533305
+[2026-02-11 23:24:47] 📤 Tentando responder callback: 5280805337161987259
+[2026-02-11 23:24:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:24:48] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message can't be deleted"}
+[2026-02-11 23:25:19] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:25:19]    └─ Data: APAGAR|7741922759|10847
+[2026-02-11 23:25:19]    └─ From: 7741922759
+[2026-02-11 23:25:19]    └─ Age: 26s (0h)
+[2026-02-11 23:25:19] 📤 Tentando responder callback: 5581188949676320820
+[2026-02-11 23:25:20] ✅ Callback respondido com sucesso!
+[2026-02-11 23:25:20] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:25:20] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188949676320820","data":"APAGAR|7741922759|10847","from_id":7741922759,"message_date":1770863093,"age_seconds":27,"age_hours":0}
+[2026-02-11 23:25:20] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:25:20] 📤 Tentando responder callback: 5581188949676320820
+[2026-02-11 23:25:20] ✅ Callback respondido com sucesso!
+[2026-02-11 23:25:24] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:25:24]    └─ Data: CPF_BASE|7570773012|cpflocal|70982248474|297428
+[2026-02-11 23:25:24]    └─ From: 7570773012
+[2026-02-11 23:25:24]    └─ Age: 5s (0h)
+[2026-02-11 23:25:24] 📤 Tentando responder callback: 4846106382296264959
+[2026-02-11 23:25:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:25:25] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:25:25] 🔔 CALLBACK RECEBIDO: {"callback_id":"4846106382296264959","data":"CPF_BASE|7570773012|cpflocal|70982248474|297428","from_id":7570773012,"message_date":1770863119,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:25:25] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7570773012, fromId=7570773012
+[2026-02-11 23:25:51] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:25:51]    └─ Data: APAGAR|7570773012|297428
+[2026-02-11 23:25:51]    └─ From: 7570773012
+[2026-02-11 23:25:51]    └─ Age: 26s (0h)
+[2026-02-11 23:25:51] 📤 Tentando responder callback: 4846106383322742709
+[2026-02-11 23:25:52] ✅ Callback respondido com sucesso!
+[2026-02-11 23:25:52] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:25:52] 🔔 CALLBACK RECEBIDO: {"callback_id":"4846106383322742709","data":"APAGAR|7570773012|297428","from_id":7570773012,"message_date":1770863125,"age_seconds":27,"age_hours":0}
+[2026-02-11 23:25:52] 🔍 Callback com pipe: action=APAGAR, ownerId=7570773012, fromId=7570773012
+[2026-02-11 23:25:52] 📤 Tentando responder callback: 4846106383322742709
+[2026-02-11 23:25:52] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:15] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:15]    └─ Data: VIP_MEUPLANO|7926358660
+[2026-02-11 23:26:15]    └─ From: 7926358660
+[2026-02-11 23:26:15]    └─ Age: 7s (0h)
+[2026-02-11 23:26:15] 📤 Tentando responder callback: 6373335114778746381
+[2026-02-11 23:26:16] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:16] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:16] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335114778746381","data":"VIP_MEUPLANO|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":8,"age_hours":0}
+[2026-02-11 23:26:16] 🔍 Callback com pipe: action=VIP_MEUPLANO, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:26:16] ✅ Entrando em VIP_MEUPLANO - fromId: 7926358660, ownerId: 7926358660
+[2026-02-11 23:26:16] 📊 Verificando VIP do usuário 7926358660
+[2026-02-11 23:26:16] ❌ Usuário 7926358660 NÃO tem VIP ativo
+[2026-02-11 23:26:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:43]    └─ Data: BACK_MAIN|7926358660
+[2026-02-11 23:26:43]    └─ From: 7926358660
+[2026-02-11 23:26:43]    └─ Age: 35s (0h)
+[2026-02-11 23:26:43] 📤 Tentando responder callback: 6373335113343662587
+[2026-02-11 23:26:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:43] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:43] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335113343662587","data":"BACK_MAIN|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":35,"age_hours":0}
+[2026-02-11 23:26:43] 🔍 Callback com pipe: action=BACK_MAIN, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:26:43] ✅ Ação liberada para todos: BACK_MAIN
+[2026-02-11 23:26:43] 📤 Tentando responder callback: 6373335113343662587
+[2026-02-11 23:26:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:47] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:47]    └─ Data: MENU_CONSULTAS|1962775517
+[2026-02-11 23:26:47]    └─ From: 1962775517
+[2026-02-11 23:26:47]    └─ Age: 2s (0h)
+[2026-02-11 23:26:47] 📤 Tentando responder callback: 8430056655871646036
+[2026-02-11 23:26:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:47] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:47] 🔔 CALLBACK RECEBIDO: {"callback_id":"8430056655871646036","data":"MENU_CONSULTAS|1962775517","from_id":1962775517,"message_date":1770863205,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:26:47] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=1962775517, fromId=1962775517
+[2026-02-11 23:26:47] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:26:47] 📤 Tentando responder callback: 8430056655871646036
+[2026-02-11 23:26:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:49] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:49]    └─ Data: MENU_CONSULTAS|7926358660
+[2026-02-11 23:26:49]    └─ From: 7926358660
+[2026-02-11 23:26:49]    └─ Age: 41s (0h)
+[2026-02-11 23:26:49] 📤 Tentando responder callback: 6373335113163136384
+[2026-02-11 23:26:49] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:49] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:49] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335113163136384","data":"MENU_CONSULTAS|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":41,"age_hours":0}
+[2026-02-11 23:26:49] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:26:49] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:26:49] 📤 Tentando responder callback: 6373335113163136384
+[2026-02-11 23:26:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:52] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:52]    └─ Data: CONSULTA_TELEFONE|7926358660
+[2026-02-11 23:26:52]    └─ From: 7926358660
+[2026-02-11 23:26:52]    └─ Age: 44s (0h)
+[2026-02-11 23:26:52] 📤 Tentando responder callback: 6373335112795112735
+[2026-02-11 23:26:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:53] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:53] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335112795112735","data":"CONSULTA_TELEFONE|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":45,"age_hours":0}
+[2026-02-11 23:26:53] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:26:53] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:26:53] 📤 Tentando responder callback: 6373335112795112735
+[2026-02-11 23:26:53] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:56] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:56]    └─ Data: CONSULTA_TELEFONE|7926358660
+[2026-02-11 23:26:56]    └─ From: 7926358660
+[2026-02-11 23:26:56]    └─ Age: 48s (0h)
+[2026-02-11 23:26:56] 📤 Tentando responder callback: 6373335114604079522
+[2026-02-11 23:26:56] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:56] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:56] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335114604079522","data":"CONSULTA_TELEFONE|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":48,"age_hours":0}
+[2026-02-11 23:26:56] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:26:56] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:26:56] 📤 Tentando responder callback: 6373335114604079522
+[2026-02-11 23:26:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:57] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:26:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:26:59]    └─ Data: CPF_BASE|1962775517|cpflocal|17195576671|30
+[2026-02-11 23:26:59]    └─ From: 1962775517
+[2026-02-11 23:26:59]    └─ Age: 3s (0h)
+[2026-02-11 23:26:59] 📤 Tentando responder callback: 8430056656456448789
+[2026-02-11 23:26:59] ✅ Callback respondido com sucesso!
+[2026-02-11 23:26:59] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:26:59] 🔔 CALLBACK RECEBIDO: {"callback_id":"8430056656456448789","data":"CPF_BASE|1962775517|cpflocal|17195576671|30","from_id":1962775517,"message_date":1770863216,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:26:59] 🔍 Callback com pipe: action=CPF_BASE, ownerId=1962775517, fromId=1962775517
+[2026-02-11 23:27:11] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:11]    └─ Data: MENU_CONSULTAS|7091097938
+[2026-02-11 23:27:11]    └─ From: 7091097938
+[2026-02-11 23:27:11]    └─ Age: 3s (0h)
+[2026-02-11 23:27:11] 📤 Tentando responder callback: 2785917628184551357
+[2026-02-11 23:27:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:12] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:12] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917628184551357","data":"MENU_CONSULTAS|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":4,"age_hours":0}
+[2026-02-11 23:27:12] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:27:12] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:27:12] 📤 Tentando responder callback: 2785917628184551357
+[2026-02-11 23:27:12] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:12]    └─ Data: CPF_BASE|1962775517|credilinkcpf|17195576671|33
+[2026-02-11 23:27:12]    └─ From: 1962775517
+[2026-02-11 23:27:12]    └─ Age: 1s (0h)
+[2026-02-11 23:27:12] 📤 Tentando responder callback: 8430056659171407299
+[2026-02-11 23:27:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:13] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:13] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:13] 🔔 CALLBACK RECEBIDO: {"callback_id":"8430056659171407299","data":"CPF_BASE|1962775517|credilinkcpf|17195576671|33","from_id":1962775517,"message_date":1770863231,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:27:13] 🔍 Callback com pipe: action=CPF_BASE, ownerId=1962775517, fromId=1962775517
+[2026-02-11 23:27:27] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:27]    └─ Data: CONSULTA_CPF|7091097938
+[2026-02-11 23:27:27]    └─ From: 7091097938
+[2026-02-11 23:27:27]    └─ Age: 19s (0h)
+[2026-02-11 23:27:27] 📤 Tentando responder callback: 2785917626653640894
+[2026-02-11 23:27:27] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:27] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:27] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917626653640894","data":"CONSULTA_CPF|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":19,"age_hours":0}
+[2026-02-11 23:27:27] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:27:27] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:27] 📤 Tentando responder callback: 2785917626653640894
+[2026-02-11 23:27:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:34] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:34]    └─ Data: JOIN_CHECK|7926358660
+[2026-02-11 23:27:34]    └─ From: 7926358660
+[2026-02-11 23:27:34]    └─ Age: 4s (0h)
+[2026-02-11 23:27:34] 📤 Tentando responder callback: 6373335112899476207
+[2026-02-11 23:27:35] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:35] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:35] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335112899476207","data":"JOIN_CHECK|7926358660","from_id":7926358660,"message_date":1770863250,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:27:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:41]    └─ Data: CONSULTA_CPF|7091097938
+[2026-02-11 23:27:41]    └─ From: 7091097938
+[2026-02-11 23:27:41]    └─ Age: 33s (0h)
+[2026-02-11 23:27:41] 📤 Tentando responder callback: 2785917627238286811
+[2026-02-11 23:27:42] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:42]    └─ Data: JOIN_CHECK|7926358660
+[2026-02-11 23:27:42]    └─ From: 7926358660
+[2026-02-11 23:27:42]    └─ Age: 12s (0h)
+[2026-02-11 23:27:42] 📤 Tentando responder callback: 6373335112641389712
+[2026-02-11 23:27:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917627238286811","data":"CONSULTA_CPF|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":34,"age_hours":0}
+[2026-02-11 23:27:42] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:27:42] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:42] 📤 Tentando responder callback: 2785917627238286811
+[2026-02-11 23:27:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335112641389712","data":"JOIN_CHECK|7926358660","from_id":7926358660,"message_date":1770863250,"age_seconds":12,"age_hours":0}
+[2026-02-11 23:27:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:43] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:27:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:45]    └─ Data: CONSULTA_CPF|7091097938
+[2026-02-11 23:27:45]    └─ From: 7091097938
+[2026-02-11 23:27:45]    └─ Age: 37s (0h)
+[2026-02-11 23:27:45] 📤 Tentando responder callback: 2785917629564389992
+[2026-02-11 23:27:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:46] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:46] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917629564389992","data":"CONSULTA_CPF|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":38,"age_hours":0}
+[2026-02-11 23:27:46] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:27:46] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:46] 📤 Tentando responder callback: 2785917629564389992
+[2026-02-11 23:27:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:47] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:27:47] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:47]    └─ Data: CONSULTA_CPF|7091097938
+[2026-02-11 23:27:47]    └─ From: 7091097938
+[2026-02-11 23:27:47]    └─ Age: 39s (0h)
+[2026-02-11 23:27:47] 📤 Tentando responder callback: 2785917628774008522
+[2026-02-11 23:27:47] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:47] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:47] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917628774008522","data":"CONSULTA_CPF|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":39,"age_hours":0}
+[2026-02-11 23:27:47] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:27:47] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:47] 📤 Tentando responder callback: 2785917628774008522
+[2026-02-11 23:27:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:48] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:27:54] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:54]    └─ Data: CONSULTA_CPF|6546265437
+[2026-02-11 23:27:54]    └─ From: 8399116648
+[2026-02-11 23:27:54]    └─ Age: 586s (0.2h)
+[2026-02-11 23:27:54] 📤 Tentando responder callback: 8403815211209321851
+[2026-02-11 23:27:55] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:55] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:55] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815211209321851","data":"CONSULTA_CPF|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":587,"age_hours":0.2}
+[2026-02-11 23:27:55] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:27:55] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:55] 📤 Tentando responder callback: 8403815211209321851
+[2026-02-11 23:27:55] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:57] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:57]    └─ Data: CONSULTA_CPF|6546265437
+[2026-02-11 23:27:57]    └─ From: 8399116648
+[2026-02-11 23:27:57]    └─ Age: 589s (0.2h)
+[2026-02-11 23:27:57] 📤 Tentando responder callback: 8403815210620128997
+[2026-02-11 23:27:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:57] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:27:57] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815210620128997","data":"CONSULTA_CPF|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":589,"age_hours":0.2}
+[2026-02-11 23:27:57] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:27:57] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:27:57] 📤 Tentando responder callback: 8403815210620128997
+[2026-02-11 23:27:58] ✅ Callback respondido com sucesso!
+[2026-02-11 23:27:58] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:27:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:27:59]    └─ Data: CONSULTA_CPF|6546265437
+[2026-02-11 23:27:59]    └─ From: 8399116648
+[2026-02-11 23:27:59]    └─ Age: 591s (0.2h)
+[2026-02-11 23:27:59] 📤 Tentando responder callback: 8403815208380459787
+[2026-02-11 23:28:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:00] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:00] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815208380459787","data":"CONSULTA_CPF|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":592,"age_hours":0.2}
+[2026-02-11 23:28:00] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:00] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:28:00] 📤 Tentando responder callback: 8403815208380459787
+[2026-02-11 23:28:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:00] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:28:01] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:01]    └─ Data: CONSULTA_CPF|6546265437
+[2026-02-11 23:28:01]    └─ From: 8399116648
+[2026-02-11 23:28:01]    └─ Age: 593s (0.2h)
+[2026-02-11 23:28:01] 📤 Tentando responder callback: 8403815208142782277
+[2026-02-11 23:28:01] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:01] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:01] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815208142782277","data":"CONSULTA_CPF|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":593,"age_hours":0.2}
+[2026-02-11 23:28:01] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:01] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:28:01] 📤 Tentando responder callback: 8403815208142782277
+[2026-02-11 23:28:02] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:02] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:28:02] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:02]    └─ Data: CONSULTA_CPF|6546265437
+[2026-02-11 23:28:02]    └─ From: 8399116648
+[2026-02-11 23:28:02]    └─ Age: 594s (0.2h)
+[2026-02-11 23:28:02] 📤 Tentando responder callback: 8403815210716902537
+[2026-02-11 23:28:03] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:03] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:03] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815210716902537","data":"CONSULTA_CPF|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":595,"age_hours":0.2}
+[2026-02-11 23:28:03] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:03] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:28:03] 📤 Tentando responder callback: 8403815210716902537
+[2026-02-11 23:28:03] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:03] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:28:04] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:04]    └─ Data: CONSULTA_CNPJ|6546265437
+[2026-02-11 23:28:04]    └─ From: 8399116648
+[2026-02-11 23:28:04]    └─ Age: 596s (0.2h)
+[2026-02-11 23:28:04] 📤 Tentando responder callback: 8403815208170008299
+[2026-02-11 23:28:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:04] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:04] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815208170008299","data":"CONSULTA_CNPJ|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":596,"age_hours":0.2}
+[2026-02-11 23:28:04] 🔍 Callback com pipe: action=CONSULTA_CNPJ, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:04] ✅ Ação liberada para todos: CONSULTA_CNPJ
+[2026-02-11 23:28:04] 📤 Tentando responder callback: 8403815208170008299
+[2026-02-11 23:28:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:05] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:05]    └─ Data: CONSULTA_CEP|6546265437
+[2026-02-11 23:28:05]    └─ From: 8399116648
+[2026-02-11 23:28:05]    └─ Age: 597s (0.2h)
+[2026-02-11 23:28:05] 📤 Tentando responder callback: 8403815211282748099
+[2026-02-11 23:28:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:06] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:06] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815211282748099","data":"CONSULTA_CEP|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":598,"age_hours":0.2}
+[2026-02-11 23:28:06] 🔍 Callback com pipe: action=CONSULTA_CEP, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:06] ✅ Ação liberada para todos: CONSULTA_CEP
+[2026-02-11 23:28:06] 📤 Tentando responder callback: 8403815211282748099
+[2026-02-11 23:28:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:07] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:07]    └─ Data: CONSULTA_NOME|6546265437
+[2026-02-11 23:28:07]    └─ From: 8399116648
+[2026-02-11 23:28:07]    └─ Age: 599s (0.2h)
+[2026-02-11 23:28:07] 📤 Tentando responder callback: 8403815211296504090
+[2026-02-11 23:28:07] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:07] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:07] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815211296504090","data":"CONSULTA_NOME|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":599,"age_hours":0.2}
+[2026-02-11 23:28:07] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:07] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:28:07] 📤 Tentando responder callback: 8403815211296504090
+[2026-02-11 23:28:08] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:09] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:09]    └─ Data: BACK_MAIN|7091097938
+[2026-02-11 23:28:09]    └─ From: 7091097938
+[2026-02-11 23:28:09]    └─ Age: 61s (0h)
+[2026-02-11 23:28:09] 📤 Tentando responder callback: 2785917629752787108
+[2026-02-11 23:28:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:10] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:10] 🔔 CALLBACK RECEBIDO: {"callback_id":"2785917629752787108","data":"BACK_MAIN|7091097938","from_id":7091097938,"message_date":1770863228,"age_seconds":62,"age_hours":0}
+[2026-02-11 23:28:10] 🔍 Callback com pipe: action=BACK_MAIN, ownerId=7091097938, fromId=7091097938
+[2026-02-11 23:28:10] ✅ Ação liberada para todos: BACK_MAIN
+[2026-02-11 23:28:10] 📤 Tentando responder callback: 2785917629752787108
+[2026-02-11 23:28:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:11] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:11]    └─ Data: CONSULTA_TELEFONE|6546265437
+[2026-02-11 23:28:11]    └─ From: 8399116648
+[2026-02-11 23:28:11]    └─ Age: 603s (0.2h)
+[2026-02-11 23:28:11] 📤 Tentando responder callback: 8403815210295583108
+[2026-02-11 23:28:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:12] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:12] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815210295583108","data":"CONSULTA_TELEFONE|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":604,"age_hours":0.2}
+[2026-02-11 23:28:12] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:12] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:28:12] 📤 Tentando responder callback: 8403815210295583108
+[2026-02-11 23:28:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:14] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:28:14]    └─ Data: CONSULTA_BIN|6546265437
+[2026-02-11 23:28:14]    └─ From: 8399116648
+[2026-02-11 23:28:14]    └─ Age: 606s (0.2h)
+[2026-02-11 23:28:14] 📤 Tentando responder callback: 8403815211437432749
+[2026-02-11 23:28:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:28:14] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:28:14] 🔔 CALLBACK RECEBIDO: {"callback_id":"8403815211437432749","data":"CONSULTA_BIN|6546265437","from_id":8399116648,"message_date":1770862688,"age_seconds":606,"age_hours":0.2}
+[2026-02-11 23:28:14] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=6546265437, fromId=8399116648
+[2026-02-11 23:28:14] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:28:14] 📤 Tentando responder callback: 8403815211437432749
+[2026-02-11 23:28:15] ✅ Callback respondido com sucesso!
+[2026-02-11 23:29:21] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:29:21]    └─ Data: CPF_BASE|8326685567|cpflocal|58046341860|207
+[2026-02-11 23:29:21]    └─ From: 8326685567
+[2026-02-11 23:29:21]    └─ Age: 2s (0h)
+[2026-02-11 23:29:21] 📤 Tentando responder callback: 8092726086993842463
+[2026-02-11 23:29:21] ✅ Callback respondido com sucesso!
+[2026-02-11 23:29:21] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:29:21] 🔔 CALLBACK RECEBIDO: {"callback_id":"8092726086993842463","data":"CPF_BASE|8326685567|cpflocal|58046341860|207","from_id":8326685567,"message_date":1770863359,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:29:21] 🔍 Callback com pipe: action=CPF_BASE, ownerId=8326685567, fromId=8326685567
+[2026-02-11 23:29:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:29:41]    └─ Data: APAGAR|7635855732|1228357
+[2026-02-11 23:29:41]    └─ From: 7635855732
+[2026-02-11 23:29:41]    └─ Age: 55s (0h)
+[2026-02-11 23:29:41] 📤 Tentando responder callback: 5125634536799151067
+[2026-02-11 23:29:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:29:41] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:29:41] 🔔 CALLBACK RECEBIDO: {"callback_id":"5125634536799151067","data":"APAGAR|7635855732|1228357","from_id":7635855732,"message_date":1770863326,"age_seconds":55,"age_hours":0}
+[2026-02-11 23:29:41] 🔍 Callback com pipe: action=APAGAR, ownerId=7635855732, fromId=7635855732
+[2026-02-11 23:29:41] 📤 Tentando responder callback: 5125634536799151067
+[2026-02-11 23:29:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:29:42] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message to delete not found"}
+[2026-02-11 23:29:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:29:59]    └─ Data: BACK_MAIN|7926358660
+[2026-02-11 23:29:59]    └─ From: 7926358660
+[2026-02-11 23:29:59]    └─ Age: 231s (0.1h)
+[2026-02-11 23:29:59] 📤 Tentando responder callback: 6373335111510423275
+[2026-02-11 23:30:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:00] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:30:00] 🔔 CALLBACK RECEBIDO: {"callback_id":"6373335111510423275","data":"BACK_MAIN|7926358660","from_id":7926358660,"message_date":1770863168,"age_seconds":232,"age_hours":0.1}
+[2026-02-11 23:30:00] 🔍 Callback com pipe: action=BACK_MAIN, ownerId=7926358660, fromId=7926358660
+[2026-02-11 23:30:00] ✅ Ação liberada para todos: BACK_MAIN
+[2026-02-11 23:30:00] 📤 Tentando responder callback: 6373335111510423275
+[2026-02-11 23:30:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:44] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:30:44]    └─ Data: CPF_BASE|6645824586|cpflocal|06844398832|1228361
+[2026-02-11 23:30:44]    └─ From: 6645824586
+[2026-02-11 23:30:44]    └─ Age: 5s (0h)
+[2026-02-11 23:30:44] 📤 Tentando responder callback: 873483145151782033
+[2026-02-11 23:30:45] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:45] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:30:45] 🔔 CALLBACK RECEBIDO: {"callback_id":"873483145151782033","data":"CPF_BASE|6645824586|cpflocal|06844398832|1228361","from_id":6645824586,"message_date":1770863439,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:30:45] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6645824586, fromId=6645824586
+[2026-02-11 23:30:50] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:30:50]    └─ Data: APAGAR|5175957490|22161
+[2026-02-11 23:30:50]    └─ From: 5175957490
+[2026-02-11 23:30:50]    └─ Age: 9s (0h)
+[2026-02-11 23:30:50] 📤 Tentando responder callback: 3783824073872079003
+[2026-02-11 23:30:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:50] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:30:50] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824073872079003","data":"APAGAR|5175957490|22161","from_id":5175957490,"message_date":1770863441,"age_seconds":9,"age_hours":0}
+[2026-02-11 23:30:50] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:30:50] 📤 Tentando responder callback: 3783824073872079003
+[2026-02-11 23:30:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:59] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:30:59]    └─ Data: CPF_BASE|5175957490|cpflocal|13655775890|22163
+[2026-02-11 23:30:59]    └─ From: 5175957490
+[2026-02-11 23:30:59]    └─ Age: 4s (0h)
+[2026-02-11 23:30:59] 📤 Tentando responder callback: 3783824075565428884
+[2026-02-11 23:30:59] ✅ Callback respondido com sucesso!
+[2026-02-11 23:30:59] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:30:59] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824075565428884","data":"CPF_BASE|5175957490|cpflocal|13655775890|22163","from_id":5175957490,"message_date":1770863455,"age_seconds":4,"age_hours":0}
+[2026-02-11 23:30:59] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:32:24] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:32:24]    └─ Data: CPF_BASE|5175957490|credilinkcpf|13655775890|22166
+[2026-02-11 23:32:24]    └─ From: 5175957490
+[2026-02-11 23:32:24]    └─ Age: 2s (0h)
+[2026-02-11 23:32:24] 📤 Tentando responder callback: 3783824073380352942
+[2026-02-11 23:32:24] ✅ Callback respondido com sucesso!
+[2026-02-11 23:32:24] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:32:24] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824073380352942","data":"CPF_BASE|5175957490|credilinkcpf|13655775890|22166","from_id":5175957490,"message_date":1770863542,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:32:24] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:32:37] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:32:37]    └─ Data: BACK_MAIN|6676236586
+[2026-02-11 23:32:37]    └─ From: 6676236586
+[2026-02-11 23:32:37]    └─ Age: 957491s (266h)
+[2026-02-11 23:32:37] 📤 Tentando responder callback: 1004101688847010954
+[2026-02-11 23:32:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:32:38] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:32:38] 🔔 CALLBACK RECEBIDO: {"callback_id":"1004101688847010954","data":"BACK_MAIN|6676236586","from_id":6676236586,"message_date":1769906066,"age_seconds":957492,"age_hours":266}
+[2026-02-11 23:32:38] 🔍 Callback com pipe: action=BACK_MAIN, ownerId=6676236586, fromId=6676236586
+[2026-02-11 23:32:38] ✅ Ação liberada para todos: BACK_MAIN
+[2026-02-11 23:32:38] 📤 Tentando responder callback: 1004101688847010954
+[2026-02-11 23:32:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:32:44] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:32:44]    └─ Data: GER_GRUPOS|6676236586
+[2026-02-11 23:32:44]    └─ From: 6676236586
+[2026-02-11 23:32:44]    └─ Age: 957498s (266h)
+[2026-02-11 23:32:44] 📤 Tentando responder callback: 1004101686715817545
+[2026-02-11 23:32:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:32:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:32:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"1004101686715817545","data":"GER_GRUPOS|6676236586","from_id":6676236586,"message_date":1769906066,"age_seconds":957498,"age_hours":266}
+[2026-02-11 23:32:44] 🔍 Callback com pipe: action=GER_GRUPOS, ownerId=6676236586, fromId=6676236586
+[2026-02-11 23:32:44] 📤 Tentando responder callback: 1004101686715817545
+[2026-02-11 23:32:45] ✅ Callback respondido com sucesso!
+[2026-02-11 23:33:27] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:33:27]    └─ Data: CPF_BASE|8493404387|cpflocal|12081541840|297451
+[2026-02-11 23:33:27]    └─ From: 8493404387
+[2026-02-11 23:33:27]    └─ Age: 2s (0h)
+[2026-02-11 23:33:27] 📤 Tentando responder callback: 8808777965694319554
+[2026-02-11 23:33:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:33:28] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:33:28] 🔔 CALLBACK RECEBIDO: {"callback_id":"8808777965694319554","data":"CPF_BASE|8493404387|cpflocal|12081541840|297451","from_id":8493404387,"message_date":1770863605,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:33:28] 🔍 Callback com pipe: action=CPF_BASE, ownerId=8493404387, fromId=8493404387
+[2026-02-11 23:33:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:33:41]    └─ Data: CPF_BASE|251631202|credilinkcpf|53210301115|39256
+[2026-02-11 23:33:41]    └─ From: 251631202
+[2026-02-11 23:33:41]    └─ Age: 27s (0h)
+[2026-02-11 23:33:41] 📤 Tentando responder callback: 1080747784520083179
+[2026-02-11 23:33:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:33:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:33:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"1080747784520083179","data":"CPF_BASE|251631202|credilinkcpf|53210301115|39256","from_id":251631202,"message_date":1770863594,"age_seconds":28,"age_hours":0}
+[2026-02-11 23:33:42] 🔍 Callback com pipe: action=CPF_BASE, ownerId=251631202, fromId=251631202
+[2026-02-11 23:33:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:33:45]    └─ Data: APAGAR|5175957490|22169
+[2026-02-11 23:33:45]    └─ From: 5175957490
+[2026-02-11 23:33:45]    └─ Age: 11s (0h)
+[2026-02-11 23:33:45] 📤 Tentando responder callback: 3783824073844615796
+[2026-02-11 23:33:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:33:46] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:33:46] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824073844615796","data":"APAGAR|5175957490|22169","from_id":5175957490,"message_date":1770863614,"age_seconds":12,"age_hours":0}
+[2026-02-11 23:33:46] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:33:46] 📤 Tentando responder callback: 3783824073844615796
+[2026-02-11 23:33:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:34:10] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:34:10]    └─ Data: APAGAR|5771990442|101
+[2026-02-11 23:34:10]    └─ From: 5771990442
+[2026-02-11 23:34:10]    └─ Age: 29s (0h)
+[2026-02-11 23:34:10] 📤 Tentando responder callback: 6343766110708509158
+[2026-02-11 23:34:11] ✅ Callback respondido com sucesso!
+[2026-02-11 23:34:11] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:34:11] 🔔 CALLBACK RECEBIDO: {"callback_id":"6343766110708509158","data":"APAGAR|5771990442|101","from_id":5771990442,"message_date":1770863621,"age_seconds":30,"age_hours":0}
+[2026-02-11 23:34:11] 🔍 Callback com pipe: action=APAGAR, ownerId=5771990442, fromId=5771990442
+[2026-02-11 23:34:11] 📤 Tentando responder callback: 6343766110708509158
+[2026-02-11 23:34:11] ✅ Callback respondido com sucesso!
+[2026-02-11 23:34:28] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:34:28]    └─ Data: CPF_BASE|7823538554|cpflocal|05664620528|144188
+[2026-02-11 23:34:28]    └─ From: 7823538554
+[2026-02-11 23:34:28]    └─ Age: 14s (0h)
+[2026-02-11 23:34:28] 📤 Tentando responder callback: 5931726119828651241
+[2026-02-11 23:34:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:34:28] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:34:28] 🔔 CALLBACK RECEBIDO: {"callback_id":"5931726119828651241","data":"CPF_BASE|7823538554|cpflocal|05664620528|144188","from_id":7823538554,"message_date":1770863654,"age_seconds":14,"age_hours":0}
+[2026-02-11 23:34:28] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7823538554, fromId=7823538554
+[2026-02-11 23:35:37] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:35:37]    └─ Data: CPF_BASE|5726496601|credilinkcpf|60348065345|297456
+[2026-02-11 23:35:37]    └─ From: 5726496601
+[2026-02-11 23:35:37]    └─ Age: 11s (0h)
+[2026-02-11 23:35:37] 📤 Tentando responder callback: 6148371551960906765
+[2026-02-11 23:35:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:35:38] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:35:38] 🔔 CALLBACK RECEBIDO: {"callback_id":"6148371551960906765","data":"CPF_BASE|5726496601|credilinkcpf|60348065345|297456","from_id":5726496601,"message_date":1770863726,"age_seconds":12,"age_hours":0}
+[2026-02-11 23:35:38] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5726496601, fromId=5726496601
+[2026-02-11 23:35:39] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:35:39]    └─ Data: CPF_BASE|5175957490|credilinkcpf|13459288825|22173
+[2026-02-11 23:35:39]    └─ From: 5175957490
+[2026-02-11 23:35:39]    └─ Age: 6s (0h)
+[2026-02-11 23:35:39] 📤 Tentando responder callback: 3783824075524170912
+[2026-02-11 23:35:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:35:40] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:35:40] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824075524170912","data":"CPF_BASE|5175957490|credilinkcpf|13459288825|22173","from_id":5175957490,"message_date":1770863733,"age_seconds":7,"age_hours":0}
+[2026-02-11 23:35:40] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:36:42] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:36:42]    └─ Data: APAGAR|5175957490|22176
+[2026-02-11 23:36:42]    └─ From: 5175957490
+[2026-02-11 23:36:42]    └─ Age: 10s (0h)
+[2026-02-11 23:36:42] 📤 Tentando responder callback: 3783824072752554059
+[2026-02-11 23:36:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:36:43] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:36:43] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824072752554059","data":"APAGAR|5175957490|22176","from_id":5175957490,"message_date":1770863792,"age_seconds":11,"age_hours":0}
+[2026-02-11 23:36:43] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:36:43] 📤 Tentando responder callback: 3783824072752554059
+[2026-02-11 23:36:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:36:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:36:45]    └─ Data: APAGAR|5175957490|22173
+[2026-02-11 23:36:45]    └─ From: 5175957490
+[2026-02-11 23:36:45]    └─ Age: 64s (0h)
+[2026-02-11 23:36:45] 📤 Tentando responder callback: 3783824074629975242
+[2026-02-11 23:36:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:36:46] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:36:46] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824074629975242","data":"APAGAR|5175957490|22173","from_id":5175957490,"message_date":1770863741,"age_seconds":65,"age_hours":0}
+[2026-02-11 23:36:46] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:36:46] 📤 Tentando responder callback: 3783824074629975242
+[2026-02-11 23:36:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:36:50] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:36:50]    └─ Data: APAGAR|5175957490|22171
+[2026-02-11 23:36:50]    └─ From: 5175957490
+[2026-02-11 23:36:50]    └─ Age: 92s (0h)
+[2026-02-11 23:36:50] 📤 Tentando responder callback: 3783824073360354185
+[2026-02-11 23:36:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:36:51] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:36:51] 🔔 CALLBACK RECEBIDO: {"callback_id":"3783824073360354185","data":"APAGAR|5175957490|22171","from_id":5175957490,"message_date":1770863718,"age_seconds":93,"age_hours":0}
+[2026-02-11 23:36:51] 🔍 Callback com pipe: action=APAGAR, ownerId=5175957490, fromId=5175957490
+[2026-02-11 23:36:51] 📤 Tentando responder callback: 3783824073360354185
+[2026-02-11 23:36:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:37:21] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:37:21]    └─ Data: CPF_BASE|6204629535|cpflocal|05436795196|297
+[2026-02-11 23:37:21]    └─ From: 6204629535
+[2026-02-11 23:37:21]    └─ Age: 1s (0h)
+[2026-02-11 23:37:21] 📤 Tentando responder callback: 8201936864024719926
+[2026-02-11 23:37:22] ✅ Callback respondido com sucesso!
+[2026-02-11 23:37:22] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:37:22] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936864024719926","data":"CPF_BASE|6204629535|cpflocal|05436795196|297","from_id":6204629535,"message_date":1770863840,"age_seconds":2,"age_hours":0}
+[2026-02-11 23:37:22] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:38:14] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:38:14]    └─ Data: CPF_BASE|5012269342|cpflocal|01359464174|29895
+[2026-02-11 23:38:14]    └─ From: 5012269342
+[2026-02-11 23:38:14]    └─ Age: 2s (0h)
+[2026-02-11 23:38:14] 📤 Tentando responder callback: 3080788830869493981
+[2026-02-11 23:38:15] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:15] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:38:15] 🔔 CALLBACK RECEBIDO: {"callback_id":"3080788830869493981","data":"CPF_BASE|5012269342|cpflocal|01359464174|29895","from_id":5012269342,"message_date":1770863892,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:38:15] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5012269342, fromId=5012269342
+[2026-02-11 23:38:49] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:38:49]    └─ Data: CONSULTA_PLACA|7697448740
+[2026-02-11 23:38:49]    └─ From: 8533505667
+[2026-02-11 23:38:49]    └─ Age: 4128s (1.1h)
+[2026-02-11 23:38:49] 📤 Tentando responder callback: 8981011650319071536
+[2026-02-11 23:38:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:50] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:38:50] 🔔 CALLBACK RECEBIDO: {"callback_id":"8981011650319071536","data":"CONSULTA_PLACA|7697448740","from_id":8533505667,"message_date":1770859801,"age_seconds":4129,"age_hours":1.1}
+[2026-02-11 23:38:50] 🔍 Callback com pipe: action=CONSULTA_PLACA, ownerId=7697448740, fromId=8533505667
+[2026-02-11 23:38:50] ✅ Ação liberada para todos: CONSULTA_PLACA
+[2026-02-11 23:38:50] 📤 Tentando responder callback: 8981011650319071536
+[2026-02-11 23:38:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:51] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:38:51]    └─ Data: APAGAR|5410034643|297465
+[2026-02-11 23:38:51]    └─ From: 5410034643
+[2026-02-11 23:38:51]    └─ Age: 33s (0h)
+[2026-02-11 23:38:51] 📤 Tentando responder callback: 4789177788507897896
+[2026-02-11 23:38:52] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:52] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:38:52] 🔔 CALLBACK RECEBIDO: {"callback_id":"4789177788507897896","data":"APAGAR|5410034643|297465","from_id":5410034643,"message_date":1770863898,"age_seconds":34,"age_hours":0}
+[2026-02-11 23:38:52] 🔍 Callback com pipe: action=APAGAR, ownerId=5410034643, fromId=5410034643
+[2026-02-11 23:38:52] 📤 Tentando responder callback: 4789177788507897896
+[2026-02-11 23:38:52] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:53] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message to delete not found"}
+[2026-02-11 23:38:53] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:38:53]    └─ Data: CPF_BASE|5075040810|cpflocal|56031637120|5852
+[2026-02-11 23:38:53]    └─ From: 5075040810
+[2026-02-11 23:38:53]    └─ Age: 2s (0h)
+[2026-02-11 23:38:53] 📤 Tentando responder callback: 3350390233044006164
+[2026-02-11 23:38:54] ✅ Callback respondido com sucesso!
+[2026-02-11 23:38:54] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:38:54] 🔔 CALLBACK RECEBIDO: {"callback_id":"3350390233044006164","data":"CPF_BASE|5075040810|cpflocal|56031637120|5852","from_id":5075040810,"message_date":1770863931,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:38:54] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5075040810, fromId=5075040810
+[2026-02-11 23:39:22] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:39:22]    └─ Data: APAGAR|8411062062|2621
+[2026-02-11 23:39:22]    └─ From: 8411062062
+[2026-02-11 23:39:22]    └─ Age: 50s (0h)
+[2026-02-11 23:39:22] 📤 Tentando responder callback: 8455120370775026885
+[2026-02-11 23:39:23] ✅ Callback respondido com sucesso!
+[2026-02-11 23:39:23] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:39:23] 🔔 CALLBACK RECEBIDO: {"callback_id":"8455120370775026885","data":"APAGAR|8411062062|2621","from_id":8411062062,"message_date":1770863912,"age_seconds":51,"age_hours":0}
+[2026-02-11 23:39:23] 🔍 Callback com pipe: action=APAGAR, ownerId=8411062062, fromId=8411062062
+[2026-02-11 23:39:23] 📤 Tentando responder callback: 8455120370775026885
+[2026-02-11 23:39:23] ✅ Callback respondido com sucesso!
+[2026-02-11 23:40:04] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:40:04]    └─ Data: CPF_BASE|1032635844|cpfsisregi|21632891760|512336
+[2026-02-11 23:40:04]    └─ From: 1032635844
+[2026-02-11 23:40:04]    └─ Age: 5s (0h)
+[2026-02-11 23:40:04] 📤 Tentando responder callback: 4435137180655240915
+[2026-02-11 23:40:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:40:05] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:40:05] 🔔 CALLBACK RECEBIDO: {"callback_id":"4435137180655240915","data":"CPF_BASE|1032635844|cpfsisregi|21632891760|512336","from_id":1032635844,"message_date":1770863999,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:40:05] 🔍 Callback com pipe: action=CPF_BASE, ownerId=1032635844, fromId=1032635844
+[2026-02-11 23:40:25] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:40:25]    └─ Data: CPF_BASE|7495653609|cpflocal|64799565320|157853
+[2026-02-11 23:40:25]    └─ From: 6996313723
+[2026-02-11 23:40:25]    └─ Age: 210s (0.1h)
+[2026-02-11 23:40:25] 📤 Tentando responder callback: 2378822525101248530
+[2026-02-11 23:40:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:40:26] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:40:26] 🔔 CALLBACK RECEBIDO: {"callback_id":"2378822525101248530","data":"CPF_BASE|7495653609|cpflocal|64799565320|157853","from_id":6996313723,"message_date":1770863815,"age_seconds":211,"age_hours":0.1}
+[2026-02-11 23:40:26] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7495653609, fromId=6996313723
+[2026-02-11 23:40:26] ⚠️ Bloqueado: fromId 6996313723 != ownerId 7495653609 para action CPF_BASE
+[2026-02-11 23:40:30] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:40:30]    └─ Data: CPF_BASE|7495653609|credilinkcpf|64799565320|157853
+[2026-02-11 23:40:30]    └─ From: 6996313723
+[2026-02-11 23:40:30]    └─ Age: 215s (0.1h)
+[2026-02-11 23:40:30] 📤 Tentando responder callback: 2378822524186195938
+[2026-02-11 23:40:31] ✅ Callback respondido com sucesso!
+[2026-02-11 23:40:31] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:40:31] 🔔 CALLBACK RECEBIDO: {"callback_id":"2378822524186195938","data":"CPF_BASE|7495653609|credilinkcpf|64799565320|157853","from_id":6996313723,"message_date":1770863815,"age_seconds":216,"age_hours":0.1}
+[2026-02-11 23:40:31] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7495653609, fromId=6996313723
+[2026-02-11 23:40:31] ⚠️ Bloqueado: fromId 6996313723 != ownerId 7495653609 para action CPF_BASE
+[2026-02-11 23:41:04] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:41:04]    └─ Data: MENU_CONSULTAS|7741922759
+[2026-02-11 23:41:04]    └─ From: 7741922759
+[2026-02-11 23:41:04]    └─ Age: 5s (0h)
+[2026-02-11 23:41:04] 📤 Tentando responder callback: 5581188948346725187
+[2026-02-11 23:41:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:04] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:41:04] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188948346725187","data":"MENU_CONSULTAS|7741922759","from_id":7741922759,"message_date":1770864059,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:41:04] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:41:04] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:41:04] 📤 Tentando responder callback: 5581188948346725187
+[2026-02-11 23:41:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:12] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:41:12]    └─ Data: CONSULTA_PLACA|6037534426
+[2026-02-11 23:41:12]    └─ From: 5766615738
+[2026-02-11 23:41:12]    └─ Age: 93868s (26.1h)
+[2026-02-11 23:41:12] 📤 Tentando responder callback: 6320681932959949585
+[2026-02-11 23:41:12] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:12] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:41:12] 🔔 CALLBACK RECEBIDO: {"callback_id":"6320681932959949585","data":"CONSULTA_PLACA|6037534426","from_id":5766615738,"message_date":1770770204,"age_seconds":93868,"age_hours":26.1}
+[2026-02-11 23:41:12] 🔍 Callback com pipe: action=CONSULTA_PLACA, ownerId=6037534426, fromId=5766615738
+[2026-02-11 23:41:12] ✅ Ação liberada para todos: CONSULTA_PLACA
+[2026-02-11 23:41:12] 📤 Tentando responder callback: 6320681932959949585
+[2026-02-11 23:41:13] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:13] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:41:41] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:41:41]    └─ Data: CPF_BASE|6204629535|cpflocal|05436795196|302
+[2026-02-11 23:41:41]    └─ From: 6204629535
+[2026-02-11 23:41:41]    └─ Age: 3s (0h)
+[2026-02-11 23:41:41] 📤 Tentando responder callback: 8201936867178831625
+[2026-02-11 23:41:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:41] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:41:41] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936867178831625","data":"CPF_BASE|6204629535|cpflocal|05436795196|302","from_id":6204629535,"message_date":1770864098,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:41:41] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:41:57] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:41:57]    └─ Data: CONSULTA_CPF|7741922759
+[2026-02-11 23:41:57]    └─ From: 7741922759
+[2026-02-11 23:41:57]    └─ Age: 58s (0h)
+[2026-02-11 23:41:57] 📤 Tentando responder callback: 5581188951338499543
+[2026-02-11 23:41:58] ✅ Callback respondido com sucesso!
+[2026-02-11 23:41:58] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:41:58] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188951338499543","data":"CONSULTA_CPF|7741922759","from_id":7741922759,"message_date":1770864059,"age_seconds":59,"age_hours":0}
+[2026-02-11 23:41:58] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:41:58] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:41:58] 📤 Tentando responder callback: 5581188951338499543
+[2026-02-11 23:41:58] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:24] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:42:24]    └─ Data: APAGAR|8411062062|2623
+[2026-02-11 23:42:24]    └─ From: 8411062062
+[2026-02-11 23:42:24]    └─ Age: 24s (0h)
+[2026-02-11 23:42:24] 📤 Tentando responder callback: 8455120371339457697
+[2026-02-11 23:42:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:25] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:42:25] 🔔 CALLBACK RECEBIDO: {"callback_id":"8455120371339457697","data":"APAGAR|8411062062|2623","from_id":8411062062,"message_date":1770864120,"age_seconds":25,"age_hours":0}
+[2026-02-11 23:42:25] 🔍 Callback com pipe: action=APAGAR, ownerId=8411062062, fromId=8411062062
+[2026-02-11 23:42:25] 📤 Tentando responder callback: 8455120371339457697
+[2026-02-11 23:42:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:26] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:42:26]    └─ Data: CPF_BASE|6204629535|cpflocal|01239586108|307
+[2026-02-11 23:42:26]    └─ From: 6204629535
+[2026-02-11 23:42:26]    └─ Age: 2s (0h)
+[2026-02-11 23:42:26] 📤 Tentando responder callback: 8201936866367467057
+[2026-02-11 23:42:26] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:42:26]    └─ Data: VIP_MEUPLANO|7505318236
+[2026-02-11 23:42:26]    └─ From: 7505318236
+[2026-02-11 23:42:26]    └─ Age: 6513s (1.8h)
+[2026-02-11 23:42:26] 📤 Tentando responder callback: 4564980260970399999
+[2026-02-11 23:42:27] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:27] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:42:27] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936866367467057","data":"CPF_BASE|6204629535|cpflocal|01239586108|307","from_id":6204629535,"message_date":1770864144,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:42:27] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:42:27] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:27] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:42:27] 🔔 CALLBACK RECEBIDO: {"callback_id":"4564980260970399999","data":"VIP_MEUPLANO|7505318236","from_id":7505318236,"message_date":1770857633,"age_seconds":6514,"age_hours":1.8}
+[2026-02-11 23:42:27] 🔍 Callback com pipe: action=VIP_MEUPLANO, ownerId=7505318236, fromId=7505318236
+[2026-02-11 23:42:27] ✅ Entrando em VIP_MEUPLANO - fromId: 7505318236, ownerId: 7505318236
+[2026-02-11 23:42:27] 📊 Verificando VIP do usuário 7505318236
+[2026-02-11 23:42:33] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:42:33]    └─ Data: VIP_BUY|7741922759|vip_7
+[2026-02-11 23:42:33]    └─ From: 7741922759
+[2026-02-11 23:42:33]    └─ Age: 21s (0h)
+[2026-02-11 23:42:33] 📤 Tentando responder callback: 5581188948989863682
+[2026-02-11 23:42:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:34] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:42:34] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188948989863682","data":"VIP_BUY|7741922759|vip_7","from_id":7741922759,"message_date":1770864132,"age_seconds":22,"age_hours":0}
+[2026-02-11 23:42:34] 🔍 Callback com pipe: action=VIP_BUY, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:42:34] 📤 Tentando responder callback: 5581188948989863682
+[2026-02-11 23:42:34] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:42:43]    └─ Data: APAGAR|7741922759|0
+[2026-02-11 23:42:43]    └─ From: 7741922759
+[2026-02-11 23:42:43]    └─ Age: 31s (0h)
+[2026-02-11 23:42:43] 📤 Tentando responder callback: 5581188947934831539
+[2026-02-11 23:42:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:42:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:42:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188947934831539","data":"APAGAR|7741922759|0","from_id":7741922759,"message_date":1770864132,"age_seconds":32,"age_hours":0}
+[2026-02-11 23:42:44] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:42:44] 📤 Tentando responder callback: 5581188947934831539
+[2026-02-11 23:42:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:43:06] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:43:06]    └─ Data: CPF_BASE|7741922759|cpflocal|05543782560|10937
+[2026-02-11 23:43:06]    └─ From: 7741922759
+[2026-02-11 23:43:06]    └─ Age: 6s (0h)
+[2026-02-11 23:43:06] 📤 Tentando responder callback: 5581188949873262044
+[2026-02-11 23:43:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:43:06] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:43:06] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188949873262044","data":"CPF_BASE|7741922759|cpflocal|05543782560|10937","from_id":7741922759,"message_date":1770864180,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:43:06] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:43:25] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:43:25]    └─ Data: APAGAR|7741922759|10937
+[2026-02-11 23:43:25]    └─ From: 7741922759
+[2026-02-11 23:43:25]    └─ Age: 18s (0h)
+[2026-02-11 23:43:25] 📤 Tentando responder callback: 5581188950547292762
+[2026-02-11 23:43:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:43:26] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:43:26] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188950547292762","data":"APAGAR|7741922759|10937","from_id":7741922759,"message_date":1770864187,"age_seconds":19,"age_hours":0}
+[2026-02-11 23:43:26] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:43:26] 📤 Tentando responder callback: 5581188950547292762
+[2026-02-11 23:43:26] ✅ Callback respondido com sucesso!
+[2026-02-11 23:44:23] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:44:23]    └─ Data: CPF_BASE|6166590888|cpflocal|21270927752|3571
+[2026-02-11 23:44:23]    └─ From: 6166590888
+[2026-02-11 23:44:23]    └─ Age: 12s (0h)
+[2026-02-11 23:44:23] 📤 Tentando responder callback: 8038562120718540274
+[2026-02-11 23:44:24] ✅ Callback respondido com sucesso!
+[2026-02-11 23:44:24] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:44:24] 🔔 CALLBACK RECEBIDO: {"callback_id":"8038562120718540274","data":"CPF_BASE|6166590888|cpflocal|21270927752|3571","from_id":6166590888,"message_date":1770864251,"age_seconds":13,"age_hours":0}
+[2026-02-11 23:44:24] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6166590888, fromId=6166590888
+[2026-02-11 23:44:42] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:44:42]    └─ Data: CPF_BASE|6204629535|cpflocal|01239586108|312
+[2026-02-11 23:44:42]    └─ From: 6204629535
+[2026-02-11 23:44:42]    └─ Age: 2s (0h)
+[2026-02-11 23:44:42] 📤 Tentando responder callback: 8201936863259327601
+[2026-02-11 23:44:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:44:43] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:44:43] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936863259327601","data":"CPF_BASE|6204629535|cpflocal|01239586108|312","from_id":6204629535,"message_date":1770864280,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:44:43] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:44:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:44:45]    └─ Data: CPF_BASE|7570773012|cpflocal|44615228813|297476
+[2026-02-11 23:44:45]    └─ From: 7570773012
+[2026-02-11 23:44:45]    └─ Age: 10s (0h)
+[2026-02-11 23:44:45] 📤 Tentando responder callback: 4846106383760455142
+[2026-02-11 23:44:45] ✅ Callback respondido com sucesso!
+[2026-02-11 23:44:45] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:44:45] 🔔 CALLBACK RECEBIDO: {"callback_id":"4846106383760455142","data":"CPF_BASE|7570773012|cpflocal|44615228813|297476","from_id":7570773012,"message_date":1770864275,"age_seconds":10,"age_hours":0}
+[2026-02-11 23:44:45] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7570773012, fromId=7570773012
+[2026-02-11 23:44:54] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:44:54]    └─ Data: CONSULTA_NOME|6037534426
+[2026-02-11 23:44:54]    └─ From: 5766615738
+[2026-02-11 23:44:54]    └─ Age: 94090s (26.1h)
+[2026-02-11 23:44:54] 📤 Tentando responder callback: 6320681932313878952
+[2026-02-11 23:44:54] ✅ Callback respondido com sucesso!
+[2026-02-11 23:44:54] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:44:54] 🔔 CALLBACK RECEBIDO: {"callback_id":"6320681932313878952","data":"CONSULTA_NOME|6037534426","from_id":5766615738,"message_date":1770770204,"age_seconds":94090,"age_hours":26.1}
+[2026-02-11 23:44:54] 🔍 Callback com pipe: action=CONSULTA_NOME, ownerId=6037534426, fromId=5766615738
+[2026-02-11 23:44:54] ✅ Ação liberada para todos: CONSULTA_NOME
+[2026-02-11 23:44:54] 📤 Tentando responder callback: 6320681932313878952
+[2026-02-11 23:44:55] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:03] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:45:03]    └─ Data: APAGAR|7741922759|10946
+[2026-02-11 23:45:03]    └─ From: 7741922759
+[2026-02-11 23:45:03]    └─ Age: 18s (0h)
+[2026-02-11 23:45:03] 📤 Tentando responder callback: 5581188950346179352
+[2026-02-11 23:45:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:04] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:45:04] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188950346179352","data":"APAGAR|7741922759|10946","from_id":7741922759,"message_date":1770864285,"age_seconds":19,"age_hours":0}
+[2026-02-11 23:45:04] 🔍 Callback com pipe: action=APAGAR, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:45:04] 📤 Tentando responder callback: 5581188950346179352
+[2026-02-11 23:45:04] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:42] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:45:42]    └─ Data: APAGAR|6166590888|3571
+[2026-02-11 23:45:42]    └─ From: 6166590888
+[2026-02-11 23:45:42]    └─ Age: 78s (0h)
+[2026-02-11 23:45:42] 📤 Tentando responder callback: 8038562121771522199
+[2026-02-11 23:45:42] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:42] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:45:42] 🔔 CALLBACK RECEBIDO: {"callback_id":"8038562121771522199","data":"APAGAR|6166590888|3571","from_id":6166590888,"message_date":1770864264,"age_seconds":78,"age_hours":0}
+[2026-02-11 23:45:42] 🔍 Callback com pipe: action=APAGAR, ownerId=6166590888, fromId=6166590888
+[2026-02-11 23:45:42] 📤 Tentando responder callback: 8038562121771522199
+[2026-02-11 23:45:43] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:43] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message to delete not found"}
+[2026-02-11 23:45:56] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:45:56]    └─ Data: APAGAR|5766615738|23072
+[2026-02-11 23:45:56]    └─ From: 5766615738
+[2026-02-11 23:45:56]    └─ Age: 26s (0h)
+[2026-02-11 23:45:56] 📤 Tentando responder callback: 6320681929639444585
+[2026-02-11 23:45:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:45:57] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:45:57] 🔔 CALLBACK RECEBIDO: {"callback_id":"6320681929639444585","data":"APAGAR|5766615738|23072","from_id":5766615738,"message_date":1770864330,"age_seconds":27,"age_hours":0}
+[2026-02-11 23:45:57] 🔍 Callback com pipe: action=APAGAR, ownerId=5766615738, fromId=5766615738
+[2026-02-11 23:45:57] 📤 Tentando responder callback: 6320681929639444585
+[2026-02-11 23:45:57] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:00] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:46:00]    └─ Data: MENU_CONSULTAS|5280683963
+[2026-02-11 23:46:00]    └─ From: 5280683963
+[2026-02-11 23:46:00]    └─ Age: 5s (0h)
+[2026-02-11 23:46:00] 📤 Tentando responder callback: 4233620848506424259
+[2026-02-11 23:46:01] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:01] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:46:01] 🔔 CALLBACK RECEBIDO: {"callback_id":"4233620848506424259","data":"MENU_CONSULTAS|5280683963","from_id":5280683963,"message_date":1770864355,"age_seconds":6,"age_hours":0}
+[2026-02-11 23:46:01] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=5280683963, fromId=5280683963
+[2026-02-11 23:46:01] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:46:01] 📤 Tentando responder callback: 4233620848506424259
+[2026-02-11 23:46:01] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:05] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:46:05]    └─ Data: CONSULTA_CPF|5280683963
+[2026-02-11 23:46:05]    └─ From: 5280683963
+[2026-02-11 23:46:05]    └─ Age: 10s (0h)
+[2026-02-11 23:46:05] 📤 Tentando responder callback: 4233620849209326305
+[2026-02-11 23:46:05] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:05] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:46:05] 🔔 CALLBACK RECEBIDO: {"callback_id":"4233620849209326305","data":"CONSULTA_CPF|5280683963","from_id":5280683963,"message_date":1770864355,"age_seconds":10,"age_hours":0}
+[2026-02-11 23:46:05] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=5280683963, fromId=5280683963
+[2026-02-11 23:46:05] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:46:05] 📤 Tentando responder callback: 4233620849209326305
+[2026-02-11 23:46:06] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:13] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:46:13]    └─ Data: CONSULTA_CPF|5280683963
+[2026-02-11 23:46:13]    └─ From: 5280683963
+[2026-02-11 23:46:13]    └─ Age: 18s (0h)
+[2026-02-11 23:46:13] 📤 Tentando responder callback: 4233620850417951215
+[2026-02-11 23:46:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:14] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:46:14] 🔔 CALLBACK RECEBIDO: {"callback_id":"4233620850417951215","data":"CONSULTA_CPF|5280683963","from_id":5280683963,"message_date":1770864355,"age_seconds":19,"age_hours":0}
+[2026-02-11 23:46:14] 🔍 Callback com pipe: action=CONSULTA_CPF, ownerId=5280683963, fromId=5280683963
+[2026-02-11 23:46:14] ✅ Ação liberada para todos: CONSULTA_CPF
+[2026-02-11 23:46:14] 📤 Tentando responder callback: 4233620850417951215
+[2026-02-11 23:46:14] ✅ Callback respondido com sucesso!
+[2026-02-11 23:46:15] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:47:23] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:23]    └─ Data: APAGAR|7954070151|33264
+[2026-02-11 23:47:23]    └─ From: 7954070151
+[2026-02-11 23:47:23]    └─ Age: 68s (0h)
+[2026-02-11 23:47:23] 📤 Tentando responder callback: 6492355060244200464
+[2026-02-11 23:47:24] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:24] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:24] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355060244200464","data":"APAGAR|7954070151|33264","from_id":7954070151,"message_date":1770864375,"age_seconds":69,"age_hours":0}
+[2026-02-11 23:47:24] 🔍 Callback com pipe: action=APAGAR, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:24] 📤 Tentando responder callback: 6492355060244200464
+[2026-02-11 23:47:24] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:27] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:27]    └─ Data: APAGAR|5766615738|23074
+[2026-02-11 23:47:27]    └─ From: 5766615738
+[2026-02-11 23:47:27]    └─ Age: 64s (0h)
+[2026-02-11 23:47:27] 📤 Tentando responder callback: 6320681932209175543
+[2026-02-11 23:47:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:28] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:28] 🔔 CALLBACK RECEBIDO: {"callback_id":"6320681932209175543","data":"APAGAR|5766615738|23074","from_id":5766615738,"message_date":1770864383,"age_seconds":65,"age_hours":0}
+[2026-02-11 23:47:28] 🔍 Callback com pipe: action=APAGAR, ownerId=5766615738, fromId=5766615738
+[2026-02-11 23:47:28] 📤 Tentando responder callback: 6320681932209175543
+[2026-02-11 23:47:28] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:37] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:37]    └─ Data: MENU_CONSULTAS|7954070151
+[2026-02-11 23:47:37]    └─ From: 7954070151
+[2026-02-11 23:47:37]    └─ Age: 4s (0h)
+[2026-02-11 23:47:37] 📤 Tentando responder callback: 6492355060900537489
+[2026-02-11 23:47:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:38] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:38] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355060900537489","data":"MENU_CONSULTAS|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":5,"age_hours":0}
+[2026-02-11 23:47:38] 🔍 Callback com pipe: action=MENU_CONSULTAS, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:38] ✅ Ação liberada para todos: MENU_CONSULTAS
+[2026-02-11 23:47:38] 📤 Tentando responder callback: 6492355060900537489
+[2026-02-11 23:47:38] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:40] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:40]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:40]    └─ From: 7954070151
+[2026-02-11 23:47:40]    └─ Age: 7s (0h)
+[2026-02-11 23:47:40] 📤 Tentando responder callback: 6492355060878894470
+[2026-02-11 23:47:40] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:40] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:40] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355060878894470","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":7,"age_hours":0}
+[2026-02-11 23:47:40] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:40] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:40] 📤 Tentando responder callback: 6492355060878894470
+[2026-02-11 23:47:41] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:43] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:43]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:43]    └─ From: 7954070151
+[2026-02-11 23:47:43]    └─ Age: 10s (0h)
+[2026-02-11 23:47:43] 📤 Tentando responder callback: 6492355059021814983
+[2026-02-11 23:47:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:44] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:44] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355059021814983","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":11,"age_hours":0}
+[2026-02-11 23:47:44] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:44] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:44] 📤 Tentando responder callback: 6492355059021814983
+[2026-02-11 23:47:44] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:45] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:47:45] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:45]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:45]    └─ From: 7954070151
+[2026-02-11 23:47:45]    └─ Age: 12s (0h)
+[2026-02-11 23:47:45] 📤 Tentando responder callback: 6492355060732810652
+[2026-02-11 23:47:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:46] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:46] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355060732810652","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":13,"age_hours":0}
+[2026-02-11 23:47:46] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:46] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:46] 📤 Tentando responder callback: 6492355060732810652
+[2026-02-11 23:47:46] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:47] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:47:47] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:47]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:47]    └─ From: 7954070151
+[2026-02-11 23:47:47]    └─ Age: 14s (0h)
+[2026-02-11 23:47:47] 📤 Tentando responder callback: 6492355061926714818
+[2026-02-11 23:47:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:48] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:48] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355061926714818","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":15,"age_hours":0}
+[2026-02-11 23:47:48] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:48] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:48] 📤 Tentando responder callback: 6492355061926714818
+[2026-02-11 23:47:48] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:48] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:47:48] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:48]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:48]    └─ From: 7954070151
+[2026-02-11 23:47:48]    └─ Age: 15s (0h)
+[2026-02-11 23:47:48] 📤 Tentando responder callback: 6492355061785656244
+[2026-02-11 23:47:49] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:49] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:49] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355061785656244","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":16,"age_hours":0}
+[2026-02-11 23:47:49] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:49] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:49] 📤 Tentando responder callback: 6492355061785656244
+[2026-02-11 23:47:49] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:50] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:47:50] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:47:50]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:47:50]    └─ From: 7954070151
+[2026-02-11 23:47:50]    └─ Age: 17s (0h)
+[2026-02-11 23:47:50] 📤 Tentando responder callback: 6492355061148574044
+[2026-02-11 23:47:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:51] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:47:51] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355061148574044","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":18,"age_hours":0}
+[2026-02-11 23:47:51] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:47:51] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:47:51] 📤 Tentando responder callback: 6492355061148574044
+[2026-02-11 23:47:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:47:51] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:48:00] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:48:00]    └─ Data: CONSULTA_BIN|7954070151
+[2026-02-11 23:48:00]    └─ From: 7954070151
+[2026-02-11 23:48:00]    └─ Age: 27s (0h)
+[2026-02-11 23:48:00] 📤 Tentando responder callback: 6492355061508310920
+[2026-02-11 23:48:00] ✅ Callback respondido com sucesso!
+[2026-02-11 23:48:00] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:48:00] 🔔 CALLBACK RECEBIDO: {"callback_id":"6492355061508310920","data":"CONSULTA_BIN|7954070151","from_id":7954070151,"message_date":1770864453,"age_seconds":27,"age_hours":0}
+[2026-02-11 23:48:00] 🔍 Callback com pipe: action=CONSULTA_BIN, ownerId=7954070151, fromId=7954070151
+[2026-02-11 23:48:00] ✅ Ação liberada para todos: CONSULTA_BIN
+[2026-02-11 23:48:00] 📤 Tentando responder callback: 6492355061508310920
+[2026-02-11 23:48:01] ✅ Callback respondido com sucesso!
+[2026-02-11 23:48:01] API error (editMessageText): {"ok":false,"error_code":400,"description":"Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message"}
+[2026-02-11 23:49:09] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:49:09]    └─ Data: APAGAR|1803024738|52387
+[2026-02-11 23:49:09]    └─ From: 1803024738
+[2026-02-11 23:49:09]    └─ Age: 9s (0h)
+[2026-02-11 23:49:09] 📤 Tentando responder callback: 7743932284930337897
+[2026-02-11 23:49:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:49:10] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:49:10] 🔔 CALLBACK RECEBIDO: {"callback_id":"7743932284930337897","data":"APAGAR|1803024738|52387","from_id":1803024738,"message_date":1770864540,"age_seconds":10,"age_hours":0}
+[2026-02-11 23:49:10] 🔍 Callback com pipe: action=APAGAR, ownerId=1803024738, fromId=1803024738
+[2026-02-11 23:49:10] 📤 Tentando responder callback: 7743932284930337897
+[2026-02-11 23:49:10] ✅ Callback respondido com sucesso!
+[2026-02-11 23:49:10] API error (deleteMessage): {"ok":false,"error_code":400,"description":"Bad Request: message can't be deleted"}
+[2026-02-11 23:50:29] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:50:29]    └─ Data: CONSULTA_TELEFONE|7741922759
+[2026-02-11 23:50:29]    └─ From: 7741922759
+[2026-02-11 23:50:29]    └─ Age: 570s (0.2h)
+[2026-02-11 23:50:29] 📤 Tentando responder callback: 5581188949914805656
+[2026-02-11 23:50:30] ✅ Callback respondido com sucesso!
+[2026-02-11 23:50:30] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:50:30] 🔔 CALLBACK RECEBIDO: {"callback_id":"5581188949914805656","data":"CONSULTA_TELEFONE|7741922759","from_id":7741922759,"message_date":1770864059,"age_seconds":571,"age_hours":0.2}
+[2026-02-11 23:50:30] 🔍 Callback com pipe: action=CONSULTA_TELEFONE, ownerId=7741922759, fromId=7741922759
+[2026-02-11 23:50:30] ✅ Ação liberada para todos: CONSULTA_TELEFONE
+[2026-02-11 23:50:30] 📤 Tentando responder callback: 5581188949914805656
+[2026-02-11 23:50:30] ✅ Callback respondido com sucesso!
+[2026-02-11 23:50:51] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:50:51]    └─ Data: CPF_BASE|6204629535|cpflocal|00809913941|321
+[2026-02-11 23:50:51]    └─ From: 6204629535
+[2026-02-11 23:50:51]    └─ Age: 2s (0h)
+[2026-02-11 23:50:51] 📤 Tentando responder callback: 8201936867113152824
+[2026-02-11 23:50:52] ✅ Callback respondido com sucesso!
+[2026-02-11 23:50:52] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:50:52] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936867113152824","data":"CPF_BASE|6204629535|cpflocal|00809913941|321","from_id":6204629535,"message_date":1770864649,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:50:52] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:51:23] API error (sendMessage): {"ok":false,"error_code":400,"description":"Bad Request: TOPIC_CLOSED"}
+[2026-02-11 23:51:24] API error (sendMessage): {"ok":false,"error_code":400,"description":"Bad Request: TOPIC_CLOSED"}
+[2026-02-11 23:51:50] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:51:50]    └─ Data: CPF_BASE|8299018594|cpflocal|06203067504|1228415
+[2026-02-11 23:51:50]    └─ From: 8299018594
+[2026-02-11 23:51:50]    └─ Age: 76s (0h)
+[2026-02-11 23:51:50] 📤 Tentando responder callback: 7973897341209263976
+[2026-02-11 23:51:50] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:51:50]    └─ Data: CPF_BASE|7688269190|cpflocal|04853966102|1581
+[2026-02-11 23:51:50]    └─ From: 7688269190
+[2026-02-11 23:51:50]    └─ Age: 2s (0h)
+[2026-02-11 23:51:50] 📤 Tentando responder callback: 5350748625668075552
+[2026-02-11 23:51:50] ✅ Callback respondido com sucesso!
+[2026-02-11 23:51:50] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:51:50] 🔔 CALLBACK RECEBIDO: {"callback_id":"7973897341209263976","data":"CPF_BASE|8299018594|cpflocal|06203067504|1228415","from_id":8299018594,"message_date":1770864634,"age_seconds":76,"age_hours":0}
+[2026-02-11 23:51:50] 🔍 Callback com pipe: action=CPF_BASE, ownerId=8299018594, fromId=8299018594
+[2026-02-11 23:51:51] ✅ Callback respondido com sucesso!
+[2026-02-11 23:51:51] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:51:51] 🔔 CALLBACK RECEBIDO: {"callback_id":"5350748625668075552","data":"CPF_BASE|7688269190|cpflocal|04853966102|1581","from_id":7688269190,"message_date":1770864708,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:51:51] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7688269190, fromId=7688269190
+[2026-02-11 23:52:17] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:52:17]    └─ Data: CPF_BASE|6204629535|cpflocal|00809913941|324
+[2026-02-11 23:52:17]    └─ From: 6204629535
+[2026-02-11 23:52:17]    └─ Age: 2s (0h)
+[2026-02-11 23:52:17] 📤 Tentando responder callback: 8201936867102584970
+[2026-02-11 23:52:18] ✅ Callback respondido com sucesso!
+[2026-02-11 23:52:18] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:52:18] 🔔 CALLBACK RECEBIDO: {"callback_id":"8201936867102584970","data":"CPF_BASE|6204629535|cpflocal|00809913941|324","from_id":6204629535,"message_date":1770864735,"age_seconds":3,"age_hours":0}
+[2026-02-11 23:52:18] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6204629535, fromId=6204629535
+[2026-02-11 23:53:12] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:53:12]    └─ Data: CPF_BASE|6932780902|cpflocal|13974389407|29931
+[2026-02-11 23:53:12]    └─ From: 6932780902
+[2026-02-11 23:53:12]    └─ Age: 13s (0h)
+[2026-02-11 23:53:12] 📤 Tentando responder callback: 2105951136607002578
+[2026-02-11 23:53:13] ✅ Callback respondido com sucesso!
+[2026-02-11 23:53:13] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:53:13] 🔔 CALLBACK RECEBIDO: {"callback_id":"2105951136607002578","data":"CPF_BASE|6932780902|cpflocal|13974389407|29931","from_id":6932780902,"message_date":1770864779,"age_seconds":14,"age_hours":0}
+[2026-02-11 23:53:13] 🔍 Callback com pipe: action=CPF_BASE, ownerId=6932780902, fromId=6932780902
+[2026-02-11 23:53:23] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:53:23]    └─ Data: CPF_BASE|7341062032|cpflocal|34170280865|33282
+[2026-02-11 23:53:23]    └─ From: 7341062032
+[2026-02-11 23:53:23]    └─ Age: 3s (0h)
+[2026-02-11 23:53:23] 📤 Tentando responder callback: 3859505236161015335
+[2026-02-11 23:53:24] ✅ Callback respondido com sucesso!
+[2026-02-11 23:53:24] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:53:24] 🔔 CALLBACK RECEBIDO: {"callback_id":"3859505236161015335","data":"CPF_BASE|7341062032|cpflocal|34170280865|33282","from_id":7341062032,"message_date":1770864800,"age_seconds":4,"age_hours":0}
+[2026-02-11 23:53:24] 🔍 Callback com pipe: action=CPF_BASE, ownerId=7341062032, fromId=7341062032
+[2026-02-11 23:54:24] 📥 [GLOBAL] CALLBACK RECEBIDO DE QUALQUER USUÁRIO:
+[2026-02-11 23:54:24]    └─ Data: CPF_BASE|5476724768|cpflocal|13596394970|33382
+[2026-02-11 23:54:24]    └─ From: 5476724768
+[2026-02-11 23:54:24]    └─ Age: 3s (0h)
+[2026-02-11 23:54:24] 📤 Tentando responder callback: 5075609695086194736
+[2026-02-11 23:54:25] ✅ Callback respondido com sucesso!
+[2026-02-11 23:54:25] ⚡ Callback respondido IMEDIATAMENTE: SUCESSO
+[2026-02-11 23:54:25] 🔔 CALLBACK RECEBIDO: {"callback_id":"5075609695086194736","data":"CPF_BASE|5476724768|cpflocal|13596394970|33382","from_id":5476724768,"message_date":1770864861,"age_seconds":4,"age_hours":0}
+[2026-02-11 23:54:25] 🔍 Callback com pipe: action=CPF_BASE, ownerId=5476724768, fromId=5476724768
