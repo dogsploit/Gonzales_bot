@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Sensitive files (auto-detected)
+bot.log
+bot.log.*
+cron_delete.log
+cron_delete.log.*
+maintenance.log
+data/security.json
+vip/users.json
+vip/payments.json
+group_admin/data/groups.json
+group_admin/data_ga/
+group_admin/data/antispam/
+apis/cookies.txt
+apis/token.txt
+backups/
+*.backup*
+config.local.php
+
